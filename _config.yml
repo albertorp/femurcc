@@ -5,8 +5,8 @@ lang: es
 url: "https://albertorp.github.io"
 baseurl: "/femurcc"
 
-# theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: default
 show_excerpts: true
 
 permalink: /:year/:month/:title:output_ext
@@ -14,15 +14,22 @@ permalink: /:year/:month/:title:output_ext
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
 
+paginate: 10
+paginate_path: /page:num/
 
 defaults:
   - scope:
       path: ""
       type: posts
     values:
-      layout: post
-
-header_pages:
-  - about.md
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: false
+      related: true
