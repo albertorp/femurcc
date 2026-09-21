@@ -17,7 +17,7 @@ labels:
 
 # Alargamiento: problemas, obstáculos y complicaciones
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)
 
 Para todos aquellos que tomareis la decisión de pasar por el alargamiento o aquellos que ya la habéis tomado y pasareis en los próximos meses, esta entrada no trata de desalentar. Todo lo contrario. Trata de dar herramientas, para identificar cuándo algo se pueda convertir en obstáculo, problema o complicación. Queremos ayudar a leer las señales y dar la voz de alarma a los médicos para buscar la mejor solución.
 
@@ -41,7 +41,7 @@ Hay básicamente 4 clases de dispositivos o técnicas de alargamiento:
 
 
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--002.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--002.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--002.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--002.jpg)
 
   
 
@@ -53,7 +53,7 @@ Hay básicamente 4 clases de dispositivos o técnicas de alargamiento:
   
 
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--003.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--003.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--003.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--003.jpg)
 
   
 
@@ -62,7 +62,7 @@ Hay básicamente 4 clases de dispositivos o técnicas de alargamiento:
 
 
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--004.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--004.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--004.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--004.jpg)
 
   
 
@@ -71,7 +71,7 @@ Hay básicamente 4 clases de dispositivos o técnicas de alargamiento:
 
 
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--005.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--005.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--005.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--005.jpg)
 
   
 
@@ -86,7 +86,7 @@ Por eso el momento es antes, meses o semanas antes. Leer y entender que el fin d
 
 Pensar que una vez tomada la decisión, y hecha la operación, por supuesto se puede parar, desmontar fijador, soldar hueso, y ya está, pero normalmente como padres descartamos la vuelta atrás. Ya le hemos explicado el proceso a nuestro hij@, ellos ya se han imaginado sin alza, o con mucha menos, y haremos todo lo posible para que aquello salga bien. Por eso es mejor llenarnos de herramientas para que así sea.
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--006.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--006.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--006.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--006.jpg)
 
 Allá va una lista de luces ámbar o rojas que hay que vigilar. Las clasificaremos por origen:
 
@@ -104,7 +104,7 @@ De las siete categorías, bajo nuestra experiencia de alrededor de 30 casos, con
 
 Nuestro consejo es estar vigilante. Máxima higiene y desinfección, y mucho masaje y fisioterapia para identificar parálisis muscular o perdida de flexión o extensión. El ratio de alargamiento suele ser de 1mm al día, pero puede variar entre 0,5 a 0,75, si se empieza a ver que el hueso no consolida o si se pierde extensión en cadera o rodilla. También si el pie empieza a tener perdida de sensibilidad o dolor en terminaciones nerviosas. Todo eso se identifica a corta distancia y con mucha conversación con el peque y tocando musculo, piel y articulaciones. El campo de batalla es tal, con heridas y cicatrices que para ellos es difícil a veces distinguir si les duele, o si es miedo, o si es cosquilleo, o lo tienen dormido. Pero hay que insistir, y preguntar y vigilar.
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--007.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--007.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--007.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--007.jpg)
 
   
 
@@ -117,7 +117,7 @@ Por eso es tan importante hacer nosotros de vigilantes y estar alerta. Debemos v
 
 Desde que empezamos el alargamiento nos convertimos en los ojos del médico y los enfermeros 24/7 para nuestro hij@.
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--008.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--008.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--008.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--008.jpg)
 
   
 
@@ -134,4 +134,4 @@ Os recomendamos, esta lectura, y una charla con cuaderno en mano con vuestro mé
 
 Como siempre dicen nuestros guerreros...mami, tranquila, todo va a salir bien.
 
-[![](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--009.jpg)](/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--009.jpg)
+[![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--009.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--009.jpg)

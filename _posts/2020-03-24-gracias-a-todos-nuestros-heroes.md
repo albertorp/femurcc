@@ -10,7 +10,7 @@ labels:
 
 # Gracias a todos nuestros HÉROES!
 
-[![](/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)](/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)
+[![](/femurcc/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)](/femurcc/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)
 
   
   

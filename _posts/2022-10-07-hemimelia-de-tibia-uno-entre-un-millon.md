@@ -15,7 +15,7 @@ labels:
 
 # Hemimelia de Tibia: uno entre un millón
 
-[![](/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)](/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)
+[![](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)
 
 Si algo nos gusta repetir en el blog, es que cada caso es único, y que lo importante es identificar los lugares comunes y casos similares para poder encontrar el mejor camino: La subida a la montaña a medida de cada uno.
 
@@ -23,7 +23,7 @@ Por eso hoy queremos fijarnos en la hemimelia de tibia. Se trata de una malforma
 
 La segunda diferencia importante con los casos de FCC o hemimelia de peroné es que la hemimelia tibial puede llevar asociados más síndromes periféricos y es más común la ausencia total de la tibia (agenesia), casi siempre unilateral y de predominio derecho. 
 
-[![](/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--002.jpg)](/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--002.jpg)
+[![](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--002.jpg)](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--002.jpg)
 
 La malformación suele por tanto ser más grave y las cirugías para mitigarla más agresivas. 
 
@@ -35,7 +35,7 @@ Si hay Vida hay camino y la investigación avanza todos los días.
 
 A continuación, os dejamos los casos que hemos recopilado en redes y el médico que los atendió en cada caso. También podéis encontrar varios artículos técnicos donde podéis investigar más sobre los grados y síndromes relacionados. 
 
-[![](/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--003.jpg)](/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--003.jpg)
+[![](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--003.jpg)](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--003.jpg)
 
 Es importante entender que en función de cada familia y estado de animo de cada uno, las imágenes que se muestran pueden encoger el alma. De hecho, lo humano, es que lo hagan. Por eso os recomendamos que os toméis vuestro tiempo. Que respiréis hondo, y que, por su puesto, disfrutéis 24h 7 días por semana de vuestro bebé. Eso es lo mejor de la Vida. 
 

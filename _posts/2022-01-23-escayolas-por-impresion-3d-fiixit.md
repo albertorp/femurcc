@@ -15,13 +15,13 @@ labels:
 
 # Escayolas por impresión 3D - FIIXIT
 
-[![](/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)](/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)
+[![](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)
 
 En 2019, llegó a mis manos una noticia sobre Raquel Serrano (<https://www.linkedin.com/in/raquelserranolledo/>). Una joven ingeniera de Málaga que estaba centrando su proyecto de emprendimiento en diseñar y comercializar prótesis impresas en 3D que podían sustituir a las tediosas escayolas.
 
 Algunas semanas después escuché la noticia de que a Raquel le había dado la medalla al mérito civil. Y retomé la investigación. Recopilé información y empecé a escribir esta entrada del blog. Consulté con nuestro traumatólogo y no sabía nada aún de este tipo de prótesis. Era algo muy nuevo en el mercado y los cambios cuestan. 
 
-[![](/images/2022-01-23-escayolas-por-impresion-3d-fiixit--002.jpg)](/images/2022-01-23-escayolas-por-impresion-3d-fiixit--002.jpg)
+[![](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--002.jpg)](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--002.jpg)
 
 Luego llegó la pandemia y literalmente el Mundo se paró…todo menos la malformación de nuestros hijos, que han seguido creciendo y aumentando dismetría. Muchos de ellos han pasado una o dos veces por quirófano en plena pandemia y de nuevo escayolas…ya hidrófugas (<https://www.youtube.com/watch?v=_qx69hd_7rU> ) en muchos casos, mucho más ligeras, pero escayolas 100%.
 
@@ -45,7 +45,7 @@ Los precios aproximados están en la web y para la mejora que suponen de ligerez
 
 También puede resultar de utilidad para prótesis articuladas como la de la imagen.
 
-[![](/images/2022-01-23-escayolas-por-impresion-3d-fiixit--003.jpg)](/images/2022-01-23-escayolas-por-impresion-3d-fiixit--003.jpg)
+[![](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--003.jpg)](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--003.jpg)
 
 Ese caso sería para las prótesis de tratamientos mediante _rotationplasty_ o amputación por ejemplo, donde el peso es fundamental. 
 

@@ -13,8 +13,8 @@ labels:
 
 # Sesión divulgativa sobre el Fémur Corto Congénito
 
-[![](/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg)](/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg)  
-[![](/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--002.jpg)](/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--002.jpg)  
+[![](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg)](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg)  
+[![](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--002.jpg)](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--002.jpg)  
   
 **Dr. Luis Moraleda Novo**  
   

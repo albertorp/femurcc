@@ -15,7 +15,7 @@ labels:
 
 # Lista de Tareas y consejos Pre & Post Alargamiento
 
-[![](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)
+[![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)
 
   
 
@@ -33,7 +33,7 @@ El orden de cómo hacer las cosas, no es muy importante. El único relevante es 
 
 Aquí tenéis la lista de temas:
 
-![](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--002.jpg)
+![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--002.jpg)
 
   * Colegio: Si no hay complicaciones y dependiendo del colegio y el niño, a priori pueden ir al colegio con el fijador externo sin problema. Depende de si es externo o interno, con clavo intramedular o no, podrán apoyar o tendrán que ir en silla de ruedas, pero en todos los casos nada que impida ir al cole. Niño distraído niño feliz, y esas horas los padres cargamos pilas para la limpieza y fisio diaria.
 
@@ -53,7 +53,7 @@ La segunda reunión fue sólo de Sergio con su clase, donde les explicó con sus
 
 
 
-[![](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--003.jpg)](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--003.jpg)
+[![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--003.jpg)](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--003.jpg)
 
   
   
@@ -63,7 +63,7 @@ La segunda reunión fue sólo de Sergio con su clase, donde les explicó con sus
 
 
 
-[![](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--004.jpeg)](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--004.jpeg)
+[![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--004.jpeg)](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--004.jpeg)
 
   * Silla de ruedas y muletas: Del hospital saldrá en silla de ruedas con la pierna que sea estirada, sobre todo por el miedo y dolor al principio a doblarla. Por lo que hay que comprar o alquilar una silla con complemento de pierna en alto. La silla la usará mucho los primeros meses sobre todo para distancias largas. Las muletas serán muy necesarias para darle autonomía y que coja confianza. Primero con las dos y luego solo con una. Se usarán muchos meses. En principio compensa comprarlas ambas, y que la silla sea de niño ayuda a que vayan cómodos y la manejen ellos a medio plazo. Es importante medir el ancho del asiento con fijador para que no roce en los laterales. A veces son muy estrellas y tiene que ser más de “cadete” que infantil.
 
@@ -88,7 +88,7 @@ La segunda reunión fue sólo de Sergio con su clase, donde les explicó con sus
 
 
 
-[![](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--005.jpg)](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--005.jpg)
+[![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--005.jpg)](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--005.jpg)
 
   * Botiquín para casa: para calmantes y limpieza, el mayor gasto será en:
     * Ibuprofeno, paracetamol, metalgial si hay dolor. El Ibuprofeno los primeros días para bajar inflamación. Pero todo lo recetará el médico. Seguir siempre sus pautas. Esto lo cubrirá el seguro.
@@ -108,7 +108,7 @@ La segunda reunión fue sólo de Sergio con su clase, donde les explicó con sus
 
 
 
-[![](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--006.jpg)](/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--006.jpg)
+[![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--006.jpg)](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--006.jpg)
 
   * Pis y caca: Si son niños, la botella de farmacia para niños es muy cómoda. Nosotros la usamos muchas semanas, sobre todo por las noches para no levantarle si le entraban ganas. En niñas es más aparatoso, y a lo mejor es mejor levantarse. Para el momento caca, los primeros días mejor dieta blanda y mucho pure de verduras que facilite y llegado el momento él se sentaba despacio ayudado por nosotros y la pierna la apoyada en un banquito de Ikea de los bajos con un cojín. Como el que llevamos en el coche delante para los desplazamientos. 
 

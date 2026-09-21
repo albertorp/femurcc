@@ -10,7 +10,7 @@ labels:
 
 # GERNA y FCC
 
-[![](/images/2019-01-04-gerna-y-fcc--001.jpg)](/images/2019-01-04-gerna-y-fcc--001.jpg)
+[![](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)
 
   
   
@@ -27,7 +27,7 @@ FELIZ AÑO 2019! No podíamos empezar mejor este nuevo año, que escuchando habl
 
 Ayer el programa matinal de la Cadena Ser se hizo desde la cuarta planta del Complejo Hospitalario de Navarra para llevar la ilusión de la fiesta de los Reyes Magos a los más pequeños ingresados en ese centro. Y gracias a GERNA ([http://enfermedadespocofrecuentes.org](http://enfermedadespocofrecuentes.org/)) se dio voz a las enfermedades poco frecuentes como es la malformación congénita de FCC. Nuestro amigo y padre de uno de los peques de esta gran familia, es presidente de GERNA y estuvo hablando en los micrófonos de La Ser de su experiencia dentro de la asociación de GERNA, de la enorme labor que hace en Navarra y también de FCC, como afectado.
 
-[![](/images/2019-01-04-gerna-y-fcc--002.jpg)](/images/2019-01-04-gerna-y-fcc--002.jpg)
+[![](/femurcc/images/2019-01-04-gerna-y-fcc--002.jpg)](/femurcc/images/2019-01-04-gerna-y-fcc--002.jpg)
 
 Es un lujo empezar el año escuchando como se da voz a esta malformación de la mano de Txema. ¡¡GRACIAS!!
 

@@ -13,7 +13,7 @@ labels:
 
 # RAYOS X y el FCC
 
-[![](/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)](/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)
+[![](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)
 
 Desde este blog tratamos de reflejar dudas, miedos, frustraciones, últimas tendencias y mejoras desde el punto de vista médico y todos aquellos asuntos que en nuestras charlas y encuentros salen a debate.
 
@@ -21,7 +21,7 @@ Hoy queremos poner el foco en los Rayos X. Esa herramienta ya centenaria con la 
 
 Es la base fundamental de los traumatólogos para medir la dismetría y el estado de crecimiento de los huesos largos. Ya de la primera consulta salimos con un volante de Rayos. El primero de muchos.
 
-[![](/images/2021-05-04-rayos-x-y-el-fcc--002.jpg)](/images/2021-05-04-rayos-x-y-el-fcc--002.jpg)
+[![](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--002.jpg)](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--002.jpg)
 
 Es la herramienta del traumatólogo más rápida y barata. Cualquier otra como resonancia, contraste, ecografía no se prescriben tan fácilmente sobretodo en la sanidad pública. 
 
@@ -33,7 +33,7 @@ Y ahí vamos los padres, volante en mano, con un niñ@ cojo o muy cojo camino de
 
 Como padres, nos llama el técnico y entramos. Eso con suerte que el niñ@ sea pequeño y te dejen entrar. Y empieza la “fiesta”. Si es tu primera “Telex Rx MMII” la conversación será más o menos así….<<¿para qué son los Rayos?. Mira es que el niñ@ tiene una dismetría. Es para seguimiento o primera estimación (según el caso). Si sabes de cuanto (no siempre lo sabes) lo dirás. Tiene una dismetría de 6 cm (por ejemplo)>>. Si el traumatólogo no lo ha indicado en el volante harán la radiografía sin alza. Porque ellos no se van a inventar nada que no ponga el volante. Subirás a consulta y no valdrá. Al menos al 100%. Habrán radiado para nada. ¿Es gravísimo?…no, pero es una de muchas. Probablemente ya lleves mas de 2h de hospital, con un niño pequeño, recorriendo pasillos…. ¿Es gravísimo? no… pero es agotador.
 
-[![](/images/2021-05-04-rayos-x-y-el-fcc--003.jpg)](/images/2021-05-04-rayos-x-y-el-fcc--003.jpg)
+[![](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--003.jpg)](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--003.jpg)
 
 En el FCC la cadencia de consulta es de 1 ó 2 veces al año, y lo que para el médico es un paciente más, para ti es “LA CONSULTA”. Esa que esperas durante meses, en muchos casos yendo a otra provincia y de la que necesitas salir con datos fiables de evolución. Positivos o negativos pero fiables. Sabes que esperarás 2 o 3 horas, te llevas cuentos, Tablet y cartas de superhéroes pero tiene que merecer la pena.
 
@@ -50,7 +50,7 @@ Lista de recordatorios:
   5. **La Postura** : insistir en la postura de caderas, rodillas y tobillos. Nuestros hijos son cojos, y normalmente los huesos de la pierna afectada están girados sobre su eje longitudinal. Eso lleva al niñ@ a posturas imposibles, más si cabe descalzo sin su alza. Pero deben tener paciencia y esperar a que el niño esté bien equilibrado y alineado tal y como el traumatólogo haya indicado para que todo este proceso, el viaje, la consulta y la radiación haya merecido la pena. Cómo siempre decimos es muy importante la preparación del niño igualmente. En este caso sólo aplica en las primeras visitas a Rayos porque luego ya no se les olvida que allí no les hacen daño y que es sólo una foto chula. Pero siempre conviene recordarlo.
 
 
-  1. [![](/images/2021-05-04-rayos-x-y-el-fcc--004.jpg)](/images/2021-05-04-rayos-x-y-el-fcc--004.jpg)
+  1. [![](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--004.jpg)](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--004.jpg)
 
 
 

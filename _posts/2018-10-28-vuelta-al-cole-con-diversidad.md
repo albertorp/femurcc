@@ -10,7 +10,7 @@ labels:
 
 # Vuelta al cole con diversidad
 
-[![](/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)](/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)
+[![](/femurcc/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)](/femurcc/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)
 
   
 Casi acabamos de empezar el cole, apenas llevamos un mes, y los peques ya están prácticamente adaptados a su nueva clase, profe y compañeros.  

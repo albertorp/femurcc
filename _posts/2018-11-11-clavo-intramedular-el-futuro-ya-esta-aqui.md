@@ -13,7 +13,7 @@ labels:
 
 # Clavo intramedular. El futuro ya está aquí
 
-[![](/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)](/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)
+[![](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)
 
   
 
@@ -25,7 +25,7 @@ Aunque como decimos siempre, cada caso es único en FCC y hemimelia peronea, o d
   
 
 
-[![](/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--002.jpg)](/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--002.jpg)
+[![](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--002.jpg)](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--002.jpg)
 
   
 
@@ -39,7 +39,7 @@ El avance que queremos tratar hoy es el clavo intramedular, y la noticia es que 
   
 
 
-[![](/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--003.jpg)](/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--003.jpg)
+[![](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--003.jpg)](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--003.jpg)
 
   
 

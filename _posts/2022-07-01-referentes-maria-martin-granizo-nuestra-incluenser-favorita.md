@@ -16,11 +16,11 @@ labels:
 
 # Referentes: María Martín Granizo, nuestra "incluenser" favorita
 
-[![](/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--001.jpg)](/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--001.jpg)
+[![](/femurcc/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--001.jpg)](/femurcc/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--001.jpg)
 
 En la entrada de hoy, queremos compartir con vosotros este precioso chute de energía. Ahora que está tan de moda la definición de "personas Vitamina", María sin duda es una de ellas.
 
-![](/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--002.jpeg)
+![](/femurcc/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--002.jpeg)
 
 Todos necesitamos referentes para motivarnos y luchar por nuestros sueños, pero cuando tienes un hij@ con fémur corto congénito y todas sus derivadas, la ansiedad por encontrarlos se multiplica.
 
@@ -42,7 +42,7 @@ María que es ya una mujer de Mundo! nació con agenesia de fémur y tras varias
   
 
 
-[![](/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--003.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ469_CXhu3BwNOtZHBtXD0y8HhXr5f3VOeXXMYKuuTeTPJqhjFuFlXpirVfRBxVwxPZMcrxZoESWEoALzDjcgBNxi7PPqK-pQlrkEuYPBLWsibj9OHB86XCw4pZkc_LJ0yOV-7tHGj4Mvsv53b3ocLrg0QbRBkzR6fnymzMhXkA0XJg45_uOvfv6Gfg/s600/Mar%C3%ADaMartinGranizo-Fundaci%C3%B3nTambi%C3%A9n_600X400.jpg)
+[![](/femurcc/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--003.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ469_CXhu3BwNOtZHBtXD0y8HhXr5f3VOeXXMYKuuTeTPJqhjFuFlXpirVfRBxVwxPZMcrxZoESWEoALzDjcgBNxi7PPqK-pQlrkEuYPBLWsibj9OHB86XCw4pZkc_LJ0yOV-7tHGj4Mvsv53b3ocLrg0QbRBkzR6fnymzMhXkA0XJg45_uOvfv6Gfg/s600/Mar%C3%ADaMartinGranizo-Fundaci%C3%B3nTambi%C3%A9n_600X400.jpg)
 
   
 

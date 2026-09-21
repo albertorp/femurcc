@@ -10,7 +10,7 @@ labels:
 
 # Liberación perióstica: luces y sombras
 
-[![](/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)](/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)
+[![](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)
 
   
   
@@ -46,7 +46,7 @@ Dicho esto, empezaremos por las luces. Los aspectos positivos para quienes hemos
 
 Y desde el punto de vista de la evolución de la patología, si el procedimiento tiene éxito podría suponer reducir el número de alargamientos con fijador a realizar. 
 
-[![](/images/2019-02-21-liberacion-periostica-luces-y-sombras--002.jpg)](/images/2019-02-21-liberacion-periostica-luces-y-sombras--002.jpg)
+[![](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--002.jpg)](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--002.jpg)
 
   
 
@@ -56,7 +56,7 @@ En la imagen se muestran dos de las incisiones hechas en las liberaciones a la a
   
 
 
-[![](/images/2019-02-21-liberacion-periostica-luces-y-sombras--003.jpg)](/images/2019-02-21-liberacion-periostica-luces-y-sombras--003.jpg)
+[![](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--003.jpg)](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--003.jpg)
 
 En total suelen ser dos incisiones en fémur y dos en tibia a la altura de la rodilla y otra a la altura del tobillo.
 

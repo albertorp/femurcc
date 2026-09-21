@@ -10,7 +10,7 @@ labels:
 
 # Dame un alza y recorreré el Mundo
 
-[![](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg)](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg)
+[![](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg)](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg)
 
   
 
@@ -113,17 +113,17 @@ Algunos Zapateros de referencia:
 
 Fotos de Alzas:
 
-[![](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--002.jpeg)](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--002.jpeg)
+[![](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--002.jpeg)](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--002.jpeg)
 
-[![](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--003.jpeg)](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--003.jpeg)  
+[![](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--003.jpeg)](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--003.jpeg)  
   
 
 
-[![](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--004.jpeg)](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--004.jpeg)
+[![](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--004.jpeg)](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--004.jpeg)
 
   
 
 
-[![](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--005.jpeg)](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--005.jpeg)
+[![](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--005.jpeg)](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--005.jpeg)
 
-[![](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--006.jpeg)](/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--006.jpeg)
+[![](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--006.jpeg)](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--006.jpeg)

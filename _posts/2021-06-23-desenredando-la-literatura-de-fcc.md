@@ -15,7 +15,7 @@ labels:
 
 # Desenredando la literatura de FCC
 
-[![](/images/2021-06-23-desenredando-la-literatura-de-fcc--001.jpg)](/images/2021-06-23-desenredando-la-literatura-de-fcc--001.jpg)
+[![](/femurcc/images/2021-06-23-desenredando-la-literatura-de-fcc--001.jpg)](/femurcc/images/2021-06-23-desenredando-la-literatura-de-fcc--001.jpg)
 
 Hace unos días recibimos a través del Grupo de Facebook de Fémur Corto Congénito Hispano un gran regalo. Nos compartieron un video que ha resultado ser oro puro. 
 
@@ -51,4 +51,4 @@ A lo mejor vienen curvas pero seguro llegaremos a la cima!!!
 
 [Webinar - Dr. Galbán](https://global-help.org/videos/deformidades-congenitas-de-miembros-inferiores/)
 
-[![](/images/2021-06-23-desenredando-la-literatura-de-fcc--002.png)](/images/2021-06-23-desenredando-la-literatura-de-fcc--002.png)
+[![](/femurcc/images/2021-06-23-desenredando-la-literatura-de-fcc--002.png)](/femurcc/images/2021-06-23-desenredando-la-literatura-de-fcc--002.png)

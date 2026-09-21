@@ -10,7 +10,7 @@ labels:
 
 # PROGRAMA IV CONGRESO NACIONAL ER-CV
 
-[![](/images/2018-10-28-programa-iv-congreso-nacional-er-cv--001.jpg)](/images/2018-10-28-programa-iv-congreso-nacional-er-cv--001.jpg)
+[![](/femurcc/images/2018-10-28-programa-iv-congreso-nacional-er-cv--001.jpg)](/femurcc/images/2018-10-28-programa-iv-congreso-nacional-er-cv--001.jpg)
 
 El próximo martes 30 de Octubre se celebrará en Ibi, Alicante el 4º Congreso Nacional de Enfermedades Raras. Os dejamos el programa por si es de interés.   
   

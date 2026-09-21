@@ -10,7 +10,7 @@ labels:
 
 # Segunda Opinión médica
 
-[![](/images/2018-10-28-segunda-opinion-medica--001.jpg)](/images/2018-10-28-segunda-opinion-medica--001.jpg)
+[![](/femurcc/images/2018-10-28-segunda-opinion-medica--001.jpg)](/femurcc/images/2018-10-28-segunda-opinion-medica--001.jpg)
 
   
 

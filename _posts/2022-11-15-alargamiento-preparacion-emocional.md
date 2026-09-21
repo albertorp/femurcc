@@ -23,7 +23,7 @@ labels:
 
 # Alargamiento: Preparación emocional
 
-[![](/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)](/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)
+[![](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)
 
 Los padres que estamos ahora entre los 35-50 años, venimos de una generación de tipos duros y madres coraje a los que no se les permitía flaquear emocionalmente. Tampoco pedir ayuda profesional, para aspectos psicológicos, porque corrías el riesgo de estigma social; de ser un flojo o directamente estar loco. Y eso es una mochila que arrastramos tanto el personal médico que debería de ofrecerlo a los padres, como nosotros que deberíamos ser capaces de levantar la mano y pedir auxilio antes de ser urgente.
 
@@ -33,7 +33,7 @@ Y en eso estamos, en cómo de fuertes debemos estar los padres, para ayudar a nu
 
 Sin duda lo más difícil de gestionar cuando llegan las operaciones es que nuestros hijos no están enfermos. Y me atrevería a decir que en la mayoría de los casos ni siquiera se reconocen con limitaciones. Han nacido así, han crecido con alzas, prótesis u órtesis y han andado, corrido, nadado, a su manera, pero lo han hecho, como los demás niños. Cuando de pequeños les enseñan en la guardería lo que es un hospital y un médico, les explican que curan las heridas y eliminan el dolor. Claro, y así es cuando estás enfermo. Pero cuando nuestros hijos van al hospital, lo hacen andando, sin dolores y sin heridas. ¡¡Felices!! Y cuando salen, lo hacen escayolados, doloridos y llenos de cicatrices. Y no será la última, sino que repetirán, una, dos, tres y hasta 15 o 20 veces.
 
-[![](/images/2022-11-15-alargamiento-preparacion-emocional--002.jpg)](/images/2022-11-15-alargamiento-preparacion-emocional--002.jpg)
+[![](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--002.jpg)](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--002.jpg)
 
 La entrada de hoy trata sobre la preparación emocional. De todos. De padres, familiares y por supuesto paciente. Del guerrer@ que entrará pensando en lo bien que lo hizo en el último partido o lo bien que se lo pasó patinando y saldrá inmovilizado, en silla de ruedas, y con dolores para las siguientes semanas o meses.
 
@@ -51,7 +51,7 @@ Nuestra recomendación es buscar un buen psicólogo infantil que esté especiali
 
 Después, toca el peque... Cuándo y cómo lo explicamos o contamos o decimos la que se le viene, ¡¡siendo tan duro!! Y existiendo muchos casos en los que se deberá repetir varios alargamientos. La primera no sabrá donde va... las siguientes lo tendrá grabado.
 
-[![](/images/2022-11-15-alargamiento-preparacion-emocional--003.jpg)](/images/2022-11-15-alargamiento-preparacion-emocional--003.jpg)
+[![](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--003.jpg)](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--003.jpg)
 
 La primera idea importante es el concepto tiempo. Los niños de 8-10 años, no tienen aún un concepto de tiempo claro a muy largo plazo, así que darle detalles antes de 1 mes de la operación, no merece la pena y sólo le generará angustia. 15 días sí puede ser una buena fecha, porque se puede medir por fines de semana que faltan antes, o similar. Eso para detalles, y en meses, sí se puede decir que la próxima será el próximo verano, o próximas vacaciones, o similar.
 
@@ -101,7 +101,7 @@ Claves:
 
 Os escribimos todo esto con la vivencia de varias familias, y el asesoramiento de la psicóloga que nos ha visto a algunos. En el caso de la que teclea este post, a 15 días de vivir el primer alargamiento. Prometo ponerlo todo en práctica y volver sobre este post, para reflejar las lecciones aprendidas. Lo que funcionó y lo que no. Lo que repetiría o lo que mejoraría. Cada caso es un mundo, pero creemos que todo ayuda, al menos a pensar sobre aspectos que hasta hace poco nadie valoraba.
 
-[![](/images/2022-11-15-alargamiento-preparacion-emocional--004.jpg)](/images/2022-11-15-alargamiento-preparacion-emocional--004.jpg)
+[![](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--004.jpg)](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--004.jpg)
 
 Por último, están los hermanos y resto de la familia. La gestión de hermanos dependerá de la edad, pero si ya son conscientes y pueden apoyar, hay que hacerles parte del equipo. Ahorrarles las partes más angustiosas si eso les afecta mucho, pero no apartarles tampoco. Que se sientan parte de la solución y no un problema más que estorba en casa.
 

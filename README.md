@@ -8,7 +8,7 @@
 ## Archive structure
 
 - Each blog entry is a Markdown file in this folder.
-- Downloaded post images are stored in `/images/`.
+- Downloaded post images are stored in `/femurcc/images/`.
 - Markdown image links use portable relative paths.
 - `manifest.json` records source URLs, dates, filenames, and image mappings.
 - The ZIP copy preserves the same structure for a one-click download.

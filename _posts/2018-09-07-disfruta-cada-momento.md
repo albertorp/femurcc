@@ -10,7 +10,7 @@ labels:
 
 # Disfruta cada momento
 
-[![](/images/2018-09-07-disfruta-cada-momento--001.jpg)](/images/2018-09-07-disfruta-cada-momento--001.jpg)
+[![](/femurcc/images/2018-09-07-disfruta-cada-momento--001.jpg)](/femurcc/images/2018-09-07-disfruta-cada-momento--001.jpg)
 
   
 

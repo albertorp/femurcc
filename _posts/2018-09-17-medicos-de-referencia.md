@@ -10,7 +10,7 @@ labels:
 
 # Médicos de Referencia
 
-[![](/images/2018-09-17-medicos-de-referencia--001.jpg)](/images/2018-09-17-medicos-de-referencia--001.jpg)
+[![](/femurcc/images/2018-09-17-medicos-de-referencia--001.jpg)](/femurcc/images/2018-09-17-medicos-de-referencia--001.jpg)
 
 Con la vocación que nace este blog y la ilusión por hacer el camino algo más fácil, una de las primeras entradas queríamos que fuera, listado de médicos de referencia.  
 Algunos son los propios que tratan a nuestros hijos y con los que estamos encantados, en primer lugar por su conocimiento sobre la malformación, pero no menos importante por el trato humano y cercano con los niños y los padres. Pero también hemos querido incluir otros muchos que a nivel internacional dedican su trabajo diario a este tipo de malformaciones y son destacados por su conocimiento. Aquellos que no figuran en el listado, por su puesto no quiere decir que no puedan ser apropiados, sólo que no han aparecido como destacados o expertos.  

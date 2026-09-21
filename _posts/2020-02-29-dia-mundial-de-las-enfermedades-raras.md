@@ -10,7 +10,7 @@ labels:
 
 # Día Mundial de las enfermedades Raras
 
-[![](/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)](/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)
+[![](/femurcc/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)](/femurcc/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)
 
   
 

@@ -23,7 +23,7 @@ labels:
 
 # Gestión de Expectativas
 
-[![](/images/2024-11-09-gestion-de-expectativas--001.jpg)](/images/2024-11-09-gestion-de-expectativas--001.jpg)
+[![](/femurcc/images/2024-11-09-gestion-de-expectativas--001.jpg)](/femurcc/images/2024-11-09-gestion-de-expectativas--001.jpg)
 
 Este año, muchos de nuestros peques han cumplido los 10 años…el año 2014 trajo una hornada de héroes que se están haciendo mayores entre quirófano y quirófano. Algunos han pasado por el bisturí una vez por año de vida, otros 5, 4, 2, pero todos se han enfrentado al pasillo frio, a la bata sin botones, y al adiós en la puerta de admisiones…y nosotros con ellos.
 
@@ -39,13 +39,13 @@ Parece probado que se puede ganar algún cm con esta técnica, o disminuir el ra
 
 Así en frio, podría ser cierto, pero es importante tener en cuenta todos los factores que nos llevan a alcanzar la cima al final del viaje. 
 
-[![](/images/2024-11-09-gestion-de-expectativas--002.jpg)](/images/2024-11-09-gestion-de-expectativas--002.jpg)
+[![](/femurcc/images/2024-11-09-gestion-de-expectativas--002.jpg)](/femurcc/images/2024-11-09-gestion-de-expectativas--002.jpg)
 
 Recordemos que hoy, 2024, en la mayoría de los hospitales del sistema sanitario Mundial de países desarrollados, por encima de 12-15 cm recomiendan amputación en edad temprana y vivir con prótesis. Aún cuando en esos países, incluido España, no exista industria desarrollada ni tecnología suficiente ni subvencionada, para acceder a prótesis que proporcionen a nuestros hijos una calidad de vida del siglo XXI. 
 
 Pero ¿a dónde queremos llegar?. Nos gustaría que los padres que se enfrentan a la decisión de liberación de periostio sí o no, alargamiento ahora o luego, y prótesis y ¨me olvido de quirófanos¨…consideren que en este viaje nada resulta como pone en los libros, ni todos los postoperatorios son como vemos en redes, de niños sonriendo y corriendo con hexápodos en Instagram. 
 
-[![](/images/2024-11-09-gestion-de-expectativas--003.jpg)](/images/2024-11-09-gestion-de-expectativas--003.jpg)
+[![](/femurcc/images/2024-11-09-gestion-de-expectativas--003.jpg)](/femurcc/images/2024-11-09-gestion-de-expectativas--003.jpg)
 
 La realidad es que todas las familias tenemos tres potenciales caminos, con sus veredas y arcenes, y son las circunstancias de cada uno las que se encarga de decidir cual seguiremos:
 
@@ -63,7 +63,7 @@ Cada familia, seguimos uno de estos caminos, y muchos de nosotros, aun no pudien
 
 Y cuando, escuchas su opinión y el plan, todo es idílico, no hay complicaciones en el postoperatorio, tu hijo, entra en quirófano con todo preparado, con un preoperatorio a base de células madre que impulsa la osificación desde el inicio, tiene un equipo dedicado y adorable durante los meses de recuperación, y hasta toca una campana chulísima y tiene su foto en Instagram el día que sale de alta. Y lo mas importante, con un alargamiento exitoso de 7-8 cm ganados. Sin flexo de cadera, ni rodilla rígida, sin infección en las heridas, etc, etc, etc.
 
-[![](/images/2024-11-09-gestion-de-expectativas--004.jpg)](/images/2024-11-09-gestion-de-expectativas--004.jpg)
+[![](/femurcc/images/2024-11-09-gestion-de-expectativas--004.jpg)](/femurcc/images/2024-11-09-gestion-de-expectativas--004.jpg)
 
   
 
@@ -78,7 +78,7 @@ Esto no quiere ser una entrada pesimista, si no gestión de expectativas para ay
 
 Nuestros hijos se enfrentan a cirugías que requieren mucha especialización y altísimo nivel de calidad en el proceso, y quienes lo llevan a cabo, **antes, durante y después** y no siempre se consigue. En función de las desviaciones que tengamos del camino de la perfección, así será el resultado. 
 
-[![](/images/2024-11-09-gestion-de-expectativas--005.jpg)](/images/2024-11-09-gestion-de-expectativas--005.jpg)
+[![](/femurcc/images/2024-11-09-gestion-de-expectativas--005.jpg)](/femurcc/images/2024-11-09-gestion-de-expectativas--005.jpg)
 
 La segunda parte es el **postoperatorio**. A la mañana siguiente, o el día del alta, es excepcional ver al medico que operó. Lo normal es que venga la enfermera con el alta y a casita. Ibuprofeno y paracetamol y si hay fiebre a urgencias. Que apoye cuando le deje el miedo o los dolores. Si hablamos de alargamientos con fijador externo, te dan un tutorial de limpiar heridas en 10 minutos, como girar la tuerca y que apoye lo antes posible, y fisio diaria, pagada por ti claro. Con suerte, mucha suerte, encuentras una fisio buena, que entiende de esto, y se atreve a tratar a tu hijo con un fijador externo, o un hexápodo, y el fémur roto y en separación diaria.
 
@@ -92,7 +92,7 @@ Pues porque hay tantos factores externos como probabilidades de que algo se desv
 
 Y aquí, es donde retomo la liberación de periostio y la defensa de jugarte la ascensión a la Montaña a una carta o a varias. A ningún padre le gusta meter a su hijo en quirófano una vez por año, pero cuando esas veces son cirugías menores, que van preparando la pierna para el futuro alargamiento, cuando tu hijo no esta mas que una noche en el hospital, y una semana con molestias, y vas solventando malformaciones periféricas…que si un valgo por aquí, que si un tobillo por allá, que si una rotula puesta en su sitio, que si aprovecho y hago liberación…todo suma. 
 
-[![](/images/2024-11-09-gestion-de-expectativas--006.jpg)](/images/2024-11-09-gestion-de-expectativas--006.jpg)
+[![](/femurcc/images/2024-11-09-gestion-de-expectativas--006.jpg)](/femurcc/images/2024-11-09-gestion-de-expectativas--006.jpg)
 
 De forma que llegas al alargamiento, y como no van a ser 7cm…si en el camino has ganado, 1 ó 2…más los 3,4 que a lo mejor consigues sin flexo, en el alargamiento, pues casi llegas a esos 7cm. **Y esa es la cuenta** …si tienes 8-9 cm proyectados, entonces, podrías plantearte frenar la pierna no afectada y ahorrarte un alargamiento, y si no, al menos el siguiente alargamiento, tendrías 2 cm menos que ganar, que a mm diario, son 20 días menos de alargamiento, que son muchos días y muchas noches.
 

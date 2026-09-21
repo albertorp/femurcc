@@ -16,7 +16,7 @@ labels:
 
 Lo mejor de incorporar familias nuevas al grupo de FCC es que con cada una aprendemos algo nuevo que nos hace crecer a todos. Como hemos dicho en otras entradas, en la malformación que nos ocupa cada caso es único. Si bien parece que el origen podrías ser el peroné en muchos casos, tenemos otros que el peroné está bien, pero es el fémur en su unión con la cadera donde hay mayor malformación, o fémur y tibia, o los tres huesos largos, pero no la cadera, etc. Eso nos lleva a una infinidad de soluciones a la hora de empezar a caminar.
 
-[![](/images/2020-07-10-el-dafo-para-el-fcc--001.jpeg)](/images/2020-07-10-el-dafo-para-el-fcc--001.jpeg)
+[![](/femurcc/images/2020-07-10-el-dafo-para-el-fcc--001.jpeg)](/femurcc/images/2020-07-10-el-dafo-para-el-fcc--001.jpeg)
 
   
 
@@ -44,7 +44,7 @@ Cuando el pie cuenta con todos los dedos y el tamaño del pie es medio número o
 
 En cambio, cuando el pie es mucho más pequeño, o le faltan dedos, la estabilidad al caminar se ve más mermada con un alza convencional.
 
-[![](/images/2020-07-10-el-dafo-para-el-fcc--002.jpeg)](/images/2020-07-10-el-dafo-para-el-fcc--002.jpeg)
+[![](/femurcc/images/2020-07-10-el-dafo-para-el-fcc--002.jpeg)](/femurcc/images/2020-07-10-el-dafo-para-el-fcc--002.jpeg)
 
   
 

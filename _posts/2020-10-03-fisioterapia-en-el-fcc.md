@@ -13,13 +13,13 @@ labels:
 
 # Fisioterapia en el FCC
 
-[![](/images/2020-10-03-fisioterapia-en-el-fcc--001.png)](/images/2020-10-03-fisioterapia-en-el-fcc--001.png)
+[![](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--001.png)](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--001.png)
 
 Después de hacer una entrada hoy en FACEBOOK, no queríamos dejar de recoger la información aquí, para que todo el mundo la pueda consultar. 
 
 Queremos además aprovechar la duda que hemos planteado hoy, para insistir en la importancia de la Fisioterapia en la Vida de los pacientes con FCC. Tanto en la época de intervenciones, alargamientos, como en cualquier momento de su desarrollo, son niñ@s sometidos a fuertes desajustes o desequilibrios músculo-esqueléticos. Desde pequeños están continuamente corrigiendo un mal apoyo al caminar. Bien por el alza, la ortesis, prótesis o muletas. Al final la espalda, hombros, cervicales, cadera, y toda la musculatura asociada sufren tensiones y agarrotamientos. Por eso más allá de las sesiones obligadas después o justo antes de una intervención, es importante regalarles bienestar regularmente y bien, llevarles a un fisio a que les descarguen esas tensiones, o al menos nosotros en casa, con masajes por la noche, le ayudemos a relajar la musculatura más cargada. Les ayudará a descansar mejor y a relajarse y a asociar el masaje con un momento agradable.
 
-[![](/images/2020-10-03-fisioterapia-en-el-fcc--002.png)](/images/2020-10-03-fisioterapia-en-el-fcc--002.png)
+[![](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--002.png)](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--002.png)
 
 Pues bien, una vez os hemos animado a incluir la fisioterapia en vuestra rutina, hoy queríamos hablaros de la **tenotomía**. 
 
@@ -43,7 +43,7 @@ _Estoy a vuestra disposición para lo que queráis._
 
 _Un saludo._
 
-[![](/images/2020-10-03-fisioterapia-en-el-fcc--003.jpg)](/images/2020-10-03-fisioterapia-en-el-fcc--003.jpg)
+[![](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--003.jpg)](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--003.jpg)
 
 _  
 _

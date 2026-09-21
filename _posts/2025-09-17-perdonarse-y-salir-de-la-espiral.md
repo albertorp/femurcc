@@ -15,7 +15,7 @@ labels:
 
 # Perdonarse y salir de la espiral
 
-[![](/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)](/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)
+[![](/femurcc/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)](/femurcc/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)
 
   
 

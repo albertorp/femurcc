@@ -10,7 +10,7 @@ labels:
 
 # Ayudas y subvenciones
 
-![](/images/2019-07-06-ayudas-y-subvenciones--001.jpg) La primera vez te dicen que tu hijo tendrá necesidades especiales, y que tendrá que pasar por quirógrafo varias veces en su infancia y adolescencia, a todos se nos pellizca el corazón. Es un sentimiento de fustración y tristeza de pensar en si seremos capaces de educarle con la fortaleza suficiente para afrontar el camino.
+![](/femurcc/images/2019-07-06-ayudas-y-subvenciones--001.jpg) La primera vez te dicen que tu hijo tendrá necesidades especiales, y que tendrá que pasar por quirógrafo varias veces en su infancia y adolescencia, a todos se nos pellizca el corazón. Es un sentimiento de fustración y tristeza de pensar en si seremos capaces de educarle con la fortaleza suficiente para afrontar el camino.
 
   
 
