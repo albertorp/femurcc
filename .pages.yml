@@ -1,0 +1,81 @@
+media:
+  - name: images
+    input: images
+    output: /femurcc/images
+    categories: [image]
+
+content:
+  - name: posts
+    label: Entradas del blog
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{fields.title}.md"
+    view:
+      primary: title
+      fields: [title, published]
+    fields:
+      - name: title
+        label: Título
+        type: string
+        required: true
+      - name: published
+        label: Fecha de publicación
+        type: date
+        options:
+          time: true
+      - name: updated
+        label: Última actualización
+        type: date
+        options:
+          time: true
+        required: false
+      - name: author
+        label: Autor
+        type: string
+        default: "Grupo de familias con Fémur Corto Congénito"
+      - name: excerpt
+        label: Extracto (resumen que aparece en la portada)
+        type: text
+        required: false
+      - name: body
+        label: Contenido
+        type: rich-text
+
+  - name: about
+    label: 'Página "Sobre nosotros"'
+    type: file
+    path: about.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Título
+        type: string
+      - name: permalink
+        label: Permalink
+        type: string
+        hidden: true
+      - name: body
+        label: Contenido
+        type: rich-text
+
+  - name: home
+    label: Página de inicio
+    type: file
+    path: index.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Título
+        type: string
+      - name: layout
+        label: Layout
+        type: string
+        hidden: true
+      - name: body
+        label: Contenido
+        type: rich-text
+
+settings:
+  content:
+    merge: true
