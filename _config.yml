@@ -1,0 +1,25 @@
+title: "Fémur Corto Congénito"
+description: "Información, experiencias y recursos sobre el Fémur Corto Congénito"
+lang: es
+
+url: "https://albertorp.github.io/femurcc"
+baseurl: ""
+
+theme: minima
+show_excerpts: true
+
+permalink: /:year/:month/:title:output_ext
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+header_pages:
+  - about.md
