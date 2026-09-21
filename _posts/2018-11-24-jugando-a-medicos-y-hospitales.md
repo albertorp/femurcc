@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2018/11/jugando-medicos-y-hospitales.html"
 labels:
   []
+excerpt: "Hoy queremos hablar de lo importante que es la preparaci\u00f3n psicol\u00f3gica cuando los ni\u00f1os deben enfrentarse a una hospitalizaci\u00f3n, un quir\u00f3fano y un postoperatorio. Es probablemente una de las mayores\u2026"
 ---
 [![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)
 

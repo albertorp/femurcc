@@ -9,6 +9,7 @@ labels:
   - "FCC"
   - "Forajidos"
   - "visibilidad"
+excerpt: "Si hay un s\u00edmil con el que nos vemos identificados en el FCC es la Monta\u00f1a! es nuestra se\u00f1a de identidad, el reto que visualizamos a cada paso y etapa que completamos."
 ---
 [![](/femurcc/images/2021-07-05-reto-por-el-fcc--001.jpg)](/femurcc/images/2021-07-05-reto-por-el-fcc--001.jpg)
 

@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2019/01/gerna-y-fcc.html"
 labels:
   []
+excerpt: "FELIZ A\u00d1O 2019! No pod\u00edamos empezar mejor este nuevo a\u00f1o, que escuchando hablar de F\u00e9mur Corto Cong\u00e9nito en un medio tan importante como la Cadena Ser, concretamente en Ser Pamplona."
 ---
 [![](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)
 

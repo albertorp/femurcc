@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2019/02/liberacion-periostica-luces-y-sombras.html"
 labels:
   []
+excerpt: "Hace algunas semanas que quer\u00edamos escribir sobre la t\u00e9cnica que hoy vamos a tratar de explicar, la liberaci\u00f3n de periostio, pero posiblemente por tratarse de una t\u00e9cnica a\u00fan experimental y hoy por\u2026"
 ---
 [![](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)
 

@@ -9,6 +9,7 @@ labels:
   - "Hemimelia peronea"
   - "Naiara Biurrun"
   - "Navarra"
+excerpt: "Nos hace especial ilusi\u00f3n compartir con vosotros el premio recibido ayer por Naiara Biurrun, una de nuestras luchadoras incansables. Crecen tanto y nos hacen tan mayores que ya no podemos hablar de\u2026"
 ---
 [![](/femurcc/images/2021-06-29-premiando-la-superacion--001.jpg)](/femurcc/images/2021-06-29-premiando-la-superacion--001.jpg)
 

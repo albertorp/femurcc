@@ -11,6 +11,7 @@ labels:
   - "Hemimelia peronea"
   - "referentes"
   - "tibia"
+excerpt: "Si algo nos gusta repetir en el blog, es que cada caso es \u00fanico, y que lo importante es identificar los lugares comunes y casos similares para poder encontrar el mejor camino: La subida a la monta\u00f1a\u2026"
 ---
 [![](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)
 

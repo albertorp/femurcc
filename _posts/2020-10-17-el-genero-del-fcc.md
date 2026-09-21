@@ -9,6 +9,7 @@ labels:
   - "FCC"
   - "genero"
   - "niñas"
+excerpt: "Cuando empezamos este camino juntos hace ya algunos a\u00f1os, todas las familias que conoc\u00edamos hab\u00edamos tenido ni\u00f1os."
 ---
 [![](/femurcc/images/2020-10-17-el-genero-del-fcc--001.jpg)](/femurcc/images/2020-10-17-el-genero-del-fcc--001.jpg)
 

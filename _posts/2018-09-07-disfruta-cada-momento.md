@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2018/09/disfruta-cada-momento.html"
 labels:
   []
+excerpt: "Primero de todo respira acabas de ser papa/mama de una personita maravillosa; enhorabuena!!!."
 ---
 [![](/femurcc/images/2018-09-07-disfruta-cada-momento--001.jpg)](/femurcc/images/2018-09-07-disfruta-cada-momento--001.jpg)
 

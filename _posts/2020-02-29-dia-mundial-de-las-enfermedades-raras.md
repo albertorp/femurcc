@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2020/02/dia-mundial-de-las-enfermedades-raras.html"
 labels:
   []
+excerpt: "Hac\u00eda muchos meses que no escrib\u00edamos porque como a cualquier familia nos faltan horas en el d\u00eda. Estos \u00faltimos meses hemos seguido creciendo, y se han incorporado al grupo nuevos peque\u00f1os h\u00e9roes y\u2026"
 ---
 [![](/femurcc/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)](/femurcc/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)
 

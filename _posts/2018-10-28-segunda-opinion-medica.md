@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2018/10/segunda-opinion-medica.html"
 labels:
   []
+excerpt: "Aunque ya lo hablamos en una de las primeras entradas, quer\u00edamos insistir en ello, por lo importante y recomendable que nos parece."
 ---
 [![](/femurcc/images/2018-10-28-segunda-opinion-medica--001.jpg)](/femurcc/images/2018-10-28-segunda-opinion-medica--001.jpg)
 

@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2018/10/lucha-con-leo-un-referente-para-todos.html"
 labels:
   []
+excerpt: "Hoy hace justo dos a\u00f1os de la \u00faltima entrada en el web de lucha con Leo, y nos gustar\u00eda hacerle nuestro peque\u00f1o homenaje a \u00e9l pero sobretodo a sus padres y a todos los que con ellos hicieron posible\u2026"
 ---
 [![](/femurcc/images/2018-10-28-lucha-con-leo-un-referente-para-todos--001.jpg)](/femurcc/images/2018-10-28-lucha-con-leo-un-referente-para-todos--001.jpg)
 

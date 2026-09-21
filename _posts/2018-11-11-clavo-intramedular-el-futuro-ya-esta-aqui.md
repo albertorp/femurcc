@@ -9,6 +9,7 @@ labels:
   - "fitbone"
   - "precice"
   - "procedimiento"
+excerpt: "Hoy queremos hablar sobre el futuro en los alargamientos, como muestra y esperanza de lo que avanza la tecnolog\u00eda, afortunadamente tambi\u00e9n en alargamientos \u00f3seos."
 ---
 [![](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)
 

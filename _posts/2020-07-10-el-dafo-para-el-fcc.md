@@ -10,6 +10,7 @@ labels:
   - "DAFO"
   - "Laura Montes"
   - "ortopediabidari"
+excerpt: "Lo mejor de incorporar familias nuevas al grupo de FCC es que con cada una aprendemos algo nuevo que nos hace crecer a todos. Como hemos dicho en otras entradas, en la malformaci\u00f3n que nos ocupa cada\u2026"
 ---
 Lo mejor de incorporar familias nuevas al grupo de FCC es que con cada una aprendemos algo nuevo que nos hace crecer a todos. Como hemos dicho en otras entradas, en la malformación que nos ocupa cada caso es único. Si bien parece que el origen podrías ser el peroné en muchos casos, tenemos otros que el peroné está bien, pero es el fémur en su unión con la cadera donde hay mayor malformación, o fémur y tibia, o los tres huesos largos, pero no la cadera, etc. Eso nos lleva a una infinidad de soluciones a la hora de empezar a caminar.
 

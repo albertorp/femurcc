@@ -9,6 +9,7 @@ labels:
   - "alza"
   - "Femúr Corto"
   - "Rayos X"
+excerpt: "Desde este blog tratamos de reflejar dudas, miedos, frustraciones, \u00faltimas tendencias y mejoras desde el punto de vista m\u00e9dico y todos aquellos asuntos que en nuestras charlas y encuentros salen a\u2026"
 ---
 [![](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)
 

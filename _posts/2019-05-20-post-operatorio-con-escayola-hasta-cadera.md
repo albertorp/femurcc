@@ -6,6 +6,7 @@ author: "Grupo de familias con Fémur Corto Congénito"
 original_url: "https://femurcc.blogspot.com/2019/05/post-operatorio-con-escayola-hasta.html"
 labels:
   []
+excerpt: "Hace tiempo que ten\u00edamos pendiente una entrada sobre las escayolas hasta la cadera (Yeso pelvip\u00e9dico). Se trata de un post-operatorio com\u00fan en las cirug\u00edas de dismetr\u00edas de miembros inferiores\u2026"
 ---
 [![](/femurcc/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)](/femurcc/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)
 

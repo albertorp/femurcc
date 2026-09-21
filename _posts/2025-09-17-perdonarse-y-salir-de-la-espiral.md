@@ -11,6 +11,7 @@ labels:
   - "FCC"
   - "Femúr Corto"
   - "Fémur Corto Congénito"
+excerpt: "Carta a mi hijo Sergio, 11 a\u00f1os y 13 quir\u00f3fanos despu\u00e9s. Desde ese lugar donde duele pero encontramos la calma. Hoy comparto esta carta con todos, para quien le pueda valer. Sergio la ley\u00f3 hace unos\u2026"
 ---
 [![](/femurcc/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)](/femurcc/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)
 
