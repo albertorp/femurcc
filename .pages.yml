@@ -59,6 +59,23 @@ content:
         label: Contenido
         type: rich-text
 
+  - name: topics
+    label: "Página \"Listado de temas\""
+    type: file
+    path: listado-de-temas.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Título
+        type: string
+      - name: permalink
+        label: Permalink
+        type: string
+        hidden: true
+      - name: body
+        label: Contenido
+        type: rich-text
+
   - name: home
     label: Página de inicio
     type: file

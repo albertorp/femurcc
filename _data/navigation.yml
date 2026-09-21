@@ -1,3 +1,5 @@
 main:
   - title: "Sobre nosotros"
     url: /sobre-nosotros/
+  - title: "Listado de temas"
+    url: /listado-de-temas/
