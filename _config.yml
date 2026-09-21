@@ -16,7 +16,7 @@ plugins:
 
 defaults:
   - scope:
-      path: ""
+      path: "/femurcc/"
       type: posts
     values:
       layout: post
