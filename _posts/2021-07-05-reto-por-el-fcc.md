@@ -10,9 +10,6 @@ labels:
   - "Forajidos"
   - "visibilidad"
 ---
-
-# Reto por el FCC
-
 [![](/femurcc/images/2021-07-05-reto-por-el-fcc--001.jpg)](/femurcc/images/2021-07-05-reto-por-el-fcc--001.jpg)
 
 Si hay un símil con el que nos vemos identificados en el FCC es la Montaña! es nuestra seña de identidad, el reto que visualizamos a cada paso y etapa que completamos. 

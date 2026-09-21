@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2021/09/hazana-lograda-campeones.htm
 labels:
   []
 ---
-
-# Hazaña lograda!! CAMPEONES
-
 [![](/femurcc/images/2021-09-29-hazana-lograda-campeones--001.jpg)](/femurcc/images/2021-09-29-hazana-lograda-campeones--001.jpg)
 
   

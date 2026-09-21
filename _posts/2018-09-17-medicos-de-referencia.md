@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2018/09/medicos-de-referencia.html"
 labels:
   []
 ---
-
-# Médicos de Referencia
-
 [![](/femurcc/images/2018-09-17-medicos-de-referencia--001.jpg)](/femurcc/images/2018-09-17-medicos-de-referencia--001.jpg)
 
 Con la vocación que nace este blog y la ilusión por hacer el camino algo más fácil, una de las primeras entradas queríamos que fuera, listado de médicos de referencia.  

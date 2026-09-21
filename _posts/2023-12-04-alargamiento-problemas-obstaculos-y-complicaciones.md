@@ -14,9 +14,6 @@ labels:
   - "Hemimelia peronea"
   - "precice"
 ---
-
-# Alargamiento: problemas, obstáculos y complicaciones
-
 [![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)
 
 Para todos aquellos que tomareis la decisión de pasar por el alargamiento o aquellos que ya la habéis tomado y pasareis en los próximos meses, esta entrada no trata de desalentar. Todo lo contrario. Trata de dar herramientas, para identificar cuándo algo se pueda convertir en obstáculo, problema o complicación. Queremos ayudar a leer las señales y dar la voz de alarma a los médicos para buscar la mejor solución.

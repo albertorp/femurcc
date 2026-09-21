@@ -10,9 +10,6 @@ labels:
   - "fisioterapia"
   - "tenotonía"
 ---
-
-# Fisioterapia en el FCC
-
 [![](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--001.png)](/femurcc/images/2020-10-03-fisioterapia-en-el-fcc--001.png)
 
 Después de hacer una entrada hoy en FACEBOOK, no queríamos dejar de recoger la información aquí, para que todo el mundo la pueda consultar. 

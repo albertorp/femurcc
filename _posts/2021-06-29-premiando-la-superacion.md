@@ -10,9 +10,6 @@ labels:
   - "Naiara Biurrun"
   - "Navarra"
 ---
-
-# Premiando la superación
-
 [![](/femurcc/images/2021-06-29-premiando-la-superacion--001.jpg)](/femurcc/images/2021-06-29-premiando-la-superacion--001.jpg)
 
 Nos hace especial ilusión compartir con vosotros el premio recibido ayer por Naiara Biurrun, una de nuestras luchadoras incansables. Crecen tanto y nos hacen tan mayores que ya no podemos hablar de nuestros niños...

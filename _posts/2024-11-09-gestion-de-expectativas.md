@@ -20,9 +20,6 @@ labels:
   - "precice"
   - "prótesis"
 ---
-
-# Gestión de Expectativas
-
 [![](/femurcc/images/2024-11-09-gestion-de-expectativas--001.jpg)](/femurcc/images/2024-11-09-gestion-de-expectativas--001.jpg)
 
 Este año, muchos de nuestros peques han cumplido los 10 años…el año 2014 trajo una hornada de héroes que se están haciendo mayores entre quirófano y quirófano. Algunos han pasado por el bisturí una vez por año de vida, otros 5, 4, 2, pero todos se han enfrentado al pasillo frio, a la bata sin botones, y al adiós en la puerta de admisiones…y nosotros con ellos.

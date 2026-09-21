@@ -12,9 +12,6 @@ labels:
   - "Fémur Corto Congénito"
   - "Hemimelia peronea"
 ---
-
-# Lista de Tareas y consejos Pre & Post Alargamiento
-
 [![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)
 
   

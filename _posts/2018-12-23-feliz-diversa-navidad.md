@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2018/12/feliz-diversa-navidad.html"
 labels:
   []
 ---
-
-# Feliz Diversa Navidad!!!
-
 [![](/femurcc/images/2018-12-23-feliz-diversa-navidad--001.jpg)](/femurcc/images/2018-12-23-feliz-diversa-navidad--001.jpg)
 
 Para acabar este año 2018, sólo podemos alegrarnos de que todos nuestros peques están fuera del hospital, recuperándose genial de sus últimas intervenciones y cogiendo muchas fuerzas para lo que quede por vivir el próximo 2019.

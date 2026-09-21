@@ -10,9 +10,6 @@ labels:
   - "genero"
   - "niñas"
 ---
-
-# El género del FCC
-
 [![](/femurcc/images/2020-10-17-el-genero-del-fcc--001.jpg)](/femurcc/images/2020-10-17-el-genero-del-fcc--001.jpg)
 
 Cuando empezamos este camino juntos hace ya algunos años, todas las familias que conocíamos habíamos tenido niños.

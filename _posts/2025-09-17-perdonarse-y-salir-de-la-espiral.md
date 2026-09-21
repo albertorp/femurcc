@@ -12,9 +12,6 @@ labels:
   - "Femúr Corto"
   - "Fémur Corto Congénito"
 ---
-
-# Perdonarse y salir de la espiral
-
 [![](/femurcc/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)](/femurcc/images/2025-09-17-perdonarse-y-salir-de-la-espiral--001.jpg)
 
   

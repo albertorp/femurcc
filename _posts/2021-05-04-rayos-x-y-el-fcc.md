@@ -10,9 +10,6 @@ labels:
   - "Femúr Corto"
   - "Rayos X"
 ---
-
-# RAYOS X y el FCC
-
 [![](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)](/femurcc/images/2021-05-04-rayos-x-y-el-fcc--001.jpg)
 
 Desde este blog tratamos de reflejar dudas, miedos, frustraciones, últimas tendencias y mejoras desde el punto de vista médico y todos aquellos asuntos que en nuestras charlas y encuentros salen a debate.

@@ -12,9 +12,6 @@ labels:
   - "Fémur Corto Congénito"
   - "procedimiento"
 ---
-
-# El alargamiento desde el lado Padres
-
 [![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)
 
 La foto de la entrada de hoy era difícil de elegir…al final he elegido un nudo de pescador. Se llama nudo de sangre. Y es como me imagino el callo que deben ir haciendo células, fibras, átomos… de la nada para que nuestros hijos creen hueso donde no lo había. ¡VIDA! pura ¡¡¡Vida!!!.

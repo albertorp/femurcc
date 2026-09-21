@@ -13,9 +13,6 @@ labels:
   - "referentes"
   - "visibilidad"
 ---
-
-# Referentes: María Martín Granizo, nuestra "incluenser" favorita
-
 [![](/femurcc/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--001.jpg)](/femurcc/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--001.jpg)
 
 En la entrada de hoy, queremos compartir con vosotros este precioso chute de energía. Ahora que está tan de moda la definición de "personas Vitamina", María sin duda es una de ellas.

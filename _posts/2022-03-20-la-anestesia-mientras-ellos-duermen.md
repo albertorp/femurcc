@@ -11,9 +11,6 @@ labels:
   - "cirugia"
   - "Femúr Corto"
 ---
-
-# La anestesia: mientras ellos duermen
-
 [![](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg)](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg)
 
 Hoy queremos tratar un lugar común en todas las intervenciones de nuestros hijos. Un procedimiento necesario en todos los quirófanos de esta subida a la Montaña y que sin embargo casi nunca se explica desde el lado padres.

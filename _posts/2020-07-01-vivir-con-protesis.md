@@ -10,9 +10,6 @@ labels:
   - "Fémur Corto Congénito"
   - "prótesis"
 ---
-
-# Vivir con prótesis
-
 [![](/femurcc/images/2020-07-01-vivir-con-protesis--001.jpg)](/femurcc/images/2020-07-01-vivir-con-protesis--001.jpg)
 
 Vamos a aprovechar este calor de verano y las ganas de playa para darle otro enfoque y otro punto de vista a la malformación que nos une, y ¡¡estamos encantados de poder contarlo!!.

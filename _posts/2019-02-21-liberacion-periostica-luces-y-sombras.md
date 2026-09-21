@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2019/02/liberacion-periostica-luces-
 labels:
   []
 ---
-
-# Liberación perióstica: luces y sombras
-
 [![](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)
 
   

@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2019/01/gerna-y-fcc.html"
 labels:
   []
 ---
-
-# GERNA y FCC
-
 [![](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)
 
   

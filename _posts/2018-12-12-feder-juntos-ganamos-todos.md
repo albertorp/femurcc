@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2018/12/feder-juntos-ganamos-todos.h
 labels:
   []
 ---
-
-# FEDER, juntos ganamos todos
-
 ![](/femurcc/images/2018-12-12-feder-juntos-ganamos-todos--001.jpg)
 
   

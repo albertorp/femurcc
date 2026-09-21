@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2020/02/dia-mundial-de-las-enfermeda
 labels:
   []
 ---
-
-# Día Mundial de las enfermedades Raras
-
 [![](/femurcc/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)](/femurcc/images/2020-02-29-dia-mundial-de-las-enfermedades-raras--001.jpg)
 
   

@@ -9,9 +9,6 @@ labels:
   - "foot on foot"
   - "ortopedia"
 ---
-
-# Órtesis Bitutor Femoral (Foot on foot)
-
 [![](/femurcc/images/2018-11-12-ortesis-bitutor-femoral-foot-on-foot--001.jpg)](/femurcc/images/2018-11-12-ortesis-bitutor-femoral-foot-on-foot--001.jpg)
 
 Hace unas semanas hicimos una entrada sobre las alzas. Entonces dijimos que es un apoyo fundamental al desarrollo de nuestros hijos cuando la dismetría está entre los 2 y los 8 cm aproximadamente. Por encima de 8 ó 10 cm empieza a resultar poco funcional el uso de alzas en niños. En esos casos pasaríamos a la siguiente modalidad, que son las órtesis con bitutor o tipo foot on foot.

@@ -20,9 +20,6 @@ labels:
   - "Laura Montes"
   - "Luis Moraleda Novo"
 ---
-
-# Alargamiento: Preparación emocional
-
 [![](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)
 
 Los padres que estamos ahora entre los 35-50 años, venimos de una generación de tipos duros y madres coraje a los que no se les permitía flaquear emocionalmente. Tampoco pedir ayuda profesional, para aspectos psicológicos, porque corrías el riesgo de estigma social; de ser un flojo o directamente estar loco. Y eso es una mochila que arrastramos tanto el personal médico que debería de ofrecerlo a los padres, como nosotros que deberíamos ser capaces de levantar la mano y pedir auxilio antes de ser urgente.

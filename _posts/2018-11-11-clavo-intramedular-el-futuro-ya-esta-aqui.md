@@ -10,9 +10,6 @@ labels:
   - "precice"
   - "procedimiento"
 ---
-
-# Clavo intramedular. El futuro ya está aquí
-
 [![](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)](/femurcc/images/2018-11-11-clavo-intramedular-el-futuro-ya-esta-aqui--001.jpg)
 
   

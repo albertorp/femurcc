@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2020/03/gracias-todos-nuestros-heroe
 labels:
   []
 ---
-
-# Gracias a todos nuestros HÉROES!
-
 [![](/femurcc/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)](/femurcc/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)
 
   

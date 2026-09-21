@@ -12,9 +12,6 @@ labels:
   - "referentes"
   - "tibia"
 ---
-
-# Hemimelia de Tibia: uno entre un millón
-
 [![](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)](/femurcc/images/2022-10-07-hemimelia-de-tibia-uno-entre-un-millon--001.jpg)
 
 Si algo nos gusta repetir en el blog, es que cada caso es único, y que lo importante es identificar los lugares comunes y casos similares para poder encontrar el mejor camino: La subida a la montaña a medida de cada uno.

@@ -10,9 +10,6 @@ labels:
   - "Instituto Downey"
   - "precice"
 ---
-
-# Sesión divulgativa en Facebook del Dr.Downey
-
 [![](/femurcc/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)](/femurcc/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)
 
   

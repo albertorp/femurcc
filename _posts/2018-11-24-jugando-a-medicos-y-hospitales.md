@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2018/11/jugando-medicos-y-hospitales
 labels:
   []
 ---
-
-# Jugando a médicos y hospitales
-
 [![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)
 
 Hoy queremos hablar de lo importante que es la preparación psicológica cuando los niños deben enfrentarse a una hospitalización, un quirófano y un postoperatorio.  

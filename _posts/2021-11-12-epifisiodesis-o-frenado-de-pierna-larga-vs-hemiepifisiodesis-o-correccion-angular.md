@@ -13,9 +13,6 @@ labels:
   - "Luis Moraleda Novo"
   - "procedimiento"
 ---
-
-# EPIFISIODESIS o frenado de pierna larga vs HEMIEPIFISIODESIS o corrección angular
-
 [![](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)
 
 Llevamos tiempo preparando la entrada de hoy, y lo cierto es que ha costado terminarla. A petición de varias familias queríamos abordar la técnica de la EPIFISIODESIS o HEMIEPIFISIODESIS, que ya las palabras son complejas en sí mismas.

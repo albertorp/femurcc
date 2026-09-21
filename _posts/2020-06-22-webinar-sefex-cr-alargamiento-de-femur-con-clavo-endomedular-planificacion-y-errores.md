@@ -11,9 +11,6 @@ labels:
   - "Doctor Ginebreda"
   - "SEFEX"
 ---
-
-# webinar SEFEx-CR: "Alargamiento de fémur con clavo endomedular: planificación y errores"
-
 [![](/femurcc/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)](/femurcc/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)
 
   

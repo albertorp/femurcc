@@ -12,9 +12,6 @@ labels:
   - "Femúr Corto"
   - "ortopedia"
 ---
-
-# Escayolas por impresión 3D - FIIXIT
-
 [![](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)
 
 En 2019, llegó a mis manos una noticia sobre Raquel Serrano (<https://www.linkedin.com/in/raquelserranolledo/>). Una joven ingeniera de Málaga que estaba centrando su proyecto de emprendimiento en diseñar y comercializar prótesis impresas en 3D que podían sustituir a las tediosas escayolas.

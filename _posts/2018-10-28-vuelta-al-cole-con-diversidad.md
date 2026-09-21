@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2018/10/vuelta-al-cole-con-diversida
 labels:
   []
 ---
-
-# Vuelta al cole con diversidad
-
 [![](/femurcc/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)](/femurcc/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)
 
   

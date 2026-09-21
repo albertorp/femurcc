@@ -12,9 +12,6 @@ labels:
   - "Fémur Corto Congénito"
   - "procedimiento"
 ---
-
-# Desenredando la literatura de FCC
-
 [![](/femurcc/images/2021-06-23-desenredando-la-literatura-de-fcc--001.jpg)](/femurcc/images/2021-06-23-desenredando-la-literatura-de-fcc--001.jpg)
 
 Hace unos días recibimos a través del Grupo de Facebook de Fémur Corto Congénito Hispano un gran regalo. Nos compartieron un video que ha resultado ser oro puro. 

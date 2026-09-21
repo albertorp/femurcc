@@ -7,9 +7,6 @@ original_url: "https://femurcc.blogspot.com/2018/10/lucha-con-leo-un-referente-p
 labels:
   []
 ---
-
-# Lucha con Leo, un referente para todos
-
 [![](/femurcc/images/2018-10-28-lucha-con-leo-un-referente-para-todos--001.jpg)](/femurcc/images/2018-10-28-lucha-con-leo-un-referente-para-todos--001.jpg)
 
 Hoy hace justo dos años de la última entrada en el web de lucha con Leo, <http://www.luchaconleo.org/> y nos gustaría hacerle nuestro pequeño homenaje a él pero sobretodo a sus padres y a todos los que con ellos hicieron posible que hoy por hoy Leo, tenga una vida de peque de 4 años, como cualquier otro.
