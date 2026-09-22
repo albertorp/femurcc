@@ -12,6 +12,7 @@ labels:
   - "Femúr Corto"
 excerpt: "Hoy queremos tratar un lugar com\u00fan en todas las intervenciones de nuestros hijos. Un procedimiento necesario en todos los quir\u00f3fanos de esta subida a la Monta\u00f1a y que sin embargo casi nunca se\u2026"
 categories: ["Antes de operar"]
+tags: ["agenesia", "alargamiento", "anestesia", "cirugía"]
 header:
   teaser: "/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg"
 ---

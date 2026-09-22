@@ -11,6 +11,7 @@ labels:
   - "prótesis"
 excerpt: "Vamos a aprovechar este calor de verano y las ganas de playa para darle otro enfoque y otro punto de vista a la malformaci\u00f3n que nos une, y \u00a1\u00a1estamos encantados de poder contarlo!!."
 categories: ["Casos de referencia"]
+tags: ["AFANIP", "agenesia", "prótesis"]
 header:
   teaser: "/images/2020-07-01-vivir-con-protesis--001.jpg"
 ---

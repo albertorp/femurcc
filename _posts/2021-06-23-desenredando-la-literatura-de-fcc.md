@@ -13,6 +13,7 @@ labels:
   - "procedimiento"
 excerpt: "Hace unos d\u00edas recibimos a trav\u00e9s del Grupo de Facebook de F\u00e9mur Corto Cong\u00e9nito Hispano un gran regalo. Nos compartieron un video que ha resultado ser oro puro."
 categories: ["Primeros pasos: Buscando informaci\u00f3n"]
+tags: ["alargamiento", "Dr. Galbán", "procedimiento"]
 header:
   teaser: "/images/2021-06-23-desenredando-la-literatura-de-fcc--001.jpg"
 ---

@@ -14,6 +14,7 @@ labels:
   - "visibilidad"
 excerpt: "En la entrada de hoy, queremos compartir con vosotros este precioso chute de energ\u00eda. Ahora que est\u00e1 tan de moda la definici\u00f3n de \"personas Vitamina\", Mar\u00eda sin duda es una de ellas."
 categories: ["Casos de referencia"]
+tags: ["agenesia", "género", "niñas", "referentes", "visibilidad"]
 header:
   teaser: "/images/2022-07-01-referentes-maria-martin-granizo-nuestra-incluenser-favorita--001.jpg"
 ---

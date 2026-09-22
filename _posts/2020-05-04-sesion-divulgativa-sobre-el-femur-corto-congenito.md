@@ -11,6 +11,7 @@ labels:
   - "Luis Moraleda Novo"
 excerpt: "Dr. Luis Moraleda Novo"
 categories: ["T\u00e9cnicas aplicadas al FCC"]
+tags: ["alargamiento", "Doctor Downey", "Luis Moraleda Novo"]
 header:
   teaser: "/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg"
 ---

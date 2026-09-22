@@ -11,6 +11,7 @@ labels:
   - "tenotonía"
 excerpt: "Despu\u00e9s de hacer una entrada hoy en FACEBOOK, no quer\u00edamos dejar de recoger la informaci\u00f3n aqu\u00ed, para que todo el mundo la pueda consultar."
 categories: ["Herramientas para la calidad de vida"]
+tags: ["alargamiento", "Doctor Downey", "fisioterapia", "tenotomía"]
 header:
   teaser: "/images/2020-10-03-fisioterapia-en-el-fcc--001.png"
 ---

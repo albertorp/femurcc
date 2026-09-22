@@ -38,6 +38,51 @@ content:
         label: Extracto (resumen que aparece en la portada)
         type: text
         required: false
+      - name: tags
+        label: Etiquetas
+        type: select
+        required: false
+        options:
+          multiple: true
+          placeholder: "Elige una o varias etiquetas"
+          values:
+            - "AFANIP"
+            - "agenesia"
+            - "alargamiento"
+            - "alza"
+            - "anestesia"
+            - "bitutor femoral"
+            - "CADENA SER"
+            - "cirugía"
+            - "clavo endomedular"
+            - "DAFO"
+            - "Doctor Downey"
+            - "Doctor Ginebreda"
+            - "Dr. Galbán"
+            - "epifisiodesis"
+            - "fisioterapia"
+            - "Fitbone"
+            - "Foot on Foot"
+            - "Forajidos"
+            - "género"
+            - "hemiepifisiodesis"
+            - "hemimelia peronea"
+            - "Instituto Downey"
+            - "Laura Montes"
+            - "Luis Moraleda Novo"
+            - "Naiara Biurrun"
+            - "Navarra"
+            - "niñas"
+            - "ortopedia"
+            - "PRECICE"
+            - "procedimiento"
+            - "prótesis"
+            - "Rayos X"
+            - "referentes"
+            - "SEFEX"
+            - "tenotomía"
+            - "tibia"
+            - "visibilidad"
       - name: body
         label: Contenido
         type: rich-text

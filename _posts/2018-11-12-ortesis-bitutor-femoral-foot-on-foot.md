@@ -10,6 +10,7 @@ labels:
   - "ortopedia"
 excerpt: "Hace unas semanas hicimos una entrada sobre las alzas. Entonces dijimos que es un apoyo fundamental al desarrollo de nuestros hijos cuando la dismetr\u00eda est\u00e1 entre los 2 y los 8 cm aproximadamente\u2026"
 categories: ["Herramientas para la calidad de vida"]
+tags: ["bitutor femoral", "Foot on Foot", "ortopedia"]
 header:
   teaser: "/images/2018-11-12-ortesis-bitutor-femoral-foot-on-foot--001.jpg"
 ---

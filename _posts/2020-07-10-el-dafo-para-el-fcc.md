@@ -12,6 +12,7 @@ labels:
   - "ortopediabidari"
 excerpt: "Lo mejor de incorporar familias nuevas al grupo de FCC es que con cada una aprendemos algo nuevo que nos hace crecer a todos. Como hemos dicho en otras entradas, en la malformaci\u00f3n que nos ocupa cada\u2026"
 categories: ["Herramientas para la calidad de vida"]
+tags: ["alza", "bitutor femoral", "DAFO", "Laura Montes"]
 header:
   teaser: "/images/2020-07-10-el-dafo-para-el-fcc--001.jpeg"
 ---

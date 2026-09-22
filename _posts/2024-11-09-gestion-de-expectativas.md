@@ -21,6 +21,7 @@ labels:
   - "prótesis"
 excerpt: "Este a\u00f1o, muchos de nuestros peques han cumplido los 10 a\u00f1os\u2026el a\u00f1o 2014 trajo una hornada de h\u00e9roes que se est\u00e1n haciendo mayores entre quir\u00f3fano y quir\u00f3fano. Algunos han pasado por el bistur\u00ed una\u2026"
 categories: ["Primeros pasos: Buscando informaci\u00f3n"]
+tags: ["agenesia", "alargamiento", "alza", "anestesia", "bitutor femoral", "cirugía", "clavo endomedular", "DAFO", "fisioterapia", "hemiepifisiodesis", "hemimelia peronea", "PRECICE", "prótesis"]
 header:
   teaser: "/images/2024-11-09-gestion-de-expectativas--001.jpg"
 ---
