@@ -9,7 +9,6 @@ labels:
 excerpt: "Casi acabamos de empezar el cole, apenas llevamos un mes, y los peques ya est\u00e1n pr\u00e1cticamente adaptados a su nueva clase, profe y compa\u00f1eros."
 categories: ["Empat\u00eda e integraci\u00f3n"]
 header:
-  image: "/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg"
   teaser: "/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg"
 ---
 [![](/femurcc/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)](/femurcc/images/2018-10-28-vuelta-al-cole-con-diversidad--001.jpg)

@@ -9,7 +9,6 @@ labels:
 excerpt: "Hace algunos a\u00f1os, en 2015 y por una cadena de casualidades maravillosas, un grupo de familias desperdigadas por Espa\u00f1a nos pusimos en contacto. Nuestro nexo de uni\u00f3n fueron las ganas de ayudarnos y\u2026"
 categories: ["Asimilando el viaje"]
 header:
-  image: "/images/2018-09-05-bienvenidos-a-la-montana--001.jpg"
   teaser: "/images/2018-09-05-bienvenidos-a-la-montana--001.jpg"
 ---
 [![](/femurcc/images/2018-09-05-bienvenidos-a-la-montana--001.jpg)](/femurcc/images/2018-09-05-bienvenidos-a-la-montana--001.jpg)Hace algunos años, en 2015 y por una cadena de casualidades maravillosas, un grupo de familias desperdigadas por España nos pusimos en contacto. Nuestro nexo de unión fueron las ganas de ayudarnos y de conocer todo lo posible sobre una malformación rara que afecta a nuestros hijos: Fémur Corto Congénito y hemimelia peronea, en sus diferentes grados y variantes. El término general en inglés que engloba todas las variantes es LLD (Lower Limb Discrepancy), es decir, discrepancias en miembros inferiores.

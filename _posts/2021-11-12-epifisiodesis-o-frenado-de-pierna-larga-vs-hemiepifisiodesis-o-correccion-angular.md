@@ -15,7 +15,6 @@ labels:
 excerpt: "Llevamos tiempo preparando la entrada de hoy, y lo cierto es que ha costado terminarla. A petici\u00f3n de varias familias quer\u00edamos abordar la t\u00e9cnica de la EPIFISIODESIS o HEMIEPIFISIODESIS, que ya las\u2026"
 categories: ["T\u00e9cnicas aplicadas al FCC"]
 header:
-  image: "/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg"
   teaser: "/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg"
 ---
 [![](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)

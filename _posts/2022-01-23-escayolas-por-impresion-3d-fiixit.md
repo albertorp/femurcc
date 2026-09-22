@@ -14,7 +14,6 @@ labels:
 excerpt: "En 2019, lleg\u00f3 a mis manos una noticia sobre Raquel Serrano (). Una joven ingeniera de M\u00e1laga que estaba centrando su proyecto de emprendimiento en dise\u00f1ar y comercializar pr\u00f3tesis impresas en 3D que\u2026"
 categories: ["Herramientas para la calidad de vida"]
 header:
-  image: "/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg"
   teaser: "/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg"
 ---
 [![](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)](/femurcc/images/2022-01-23-escayolas-por-impresion-3d-fiixit--001.jpg)

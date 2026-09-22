@@ -9,7 +9,6 @@ labels:
 excerpt: "Primero de todo respira acabas de ser papa/mama de una personita maravillosa; enhorabuena!!!."
 categories: ["Asimilando el viaje"]
 header:
-  image: "/images/2018-09-07-disfruta-cada-momento--001.jpg"
   teaser: "/images/2018-09-07-disfruta-cada-momento--001.jpg"
 ---
 [![](/femurcc/images/2018-09-07-disfruta-cada-momento--001.jpg)](/femurcc/images/2018-09-07-disfruta-cada-momento--001.jpg)

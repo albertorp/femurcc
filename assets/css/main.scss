@@ -45,6 +45,7 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
    ========================================================================== */
 
 .masthead {
+  background: $footer-background-color;
   border-bottom-color: $border-color;
 
   .site-title {
@@ -53,8 +54,17 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
   }
 }
 
+.greedy-nav {
+  background: $footer-background-color;
+
+  .visible-links a,
+  .hidden-links a {
+    font-size: 0.8em;
+  }
+}
+
 .archive__item-teaser {
-  border-radius: $border-radius;
+  border-radius: $border-radius $border-radius 0 0;
   overflow: hidden;
   margin-bottom: 0.75em;
 
@@ -75,10 +85,11 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
 
   .archive__item-teaser {
     margin: -1.25em -1.25em 1em;
+  }
 
-    img {
-      border-radius: $border-radius $border-radius 0 0;
-    }
+  .fcc-chip {
+    font-size: 0.62em;
+    padding: 0.2em 0.65em;
   }
 }
 
@@ -87,7 +98,7 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
   margin-top: 0.4em;
 
   a {
-    color: $text-color;
+    color: $primary-color;
   }
 }
 
@@ -101,12 +112,36 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
   color: $muted-text-color;
 }
 
-.page__hero-image {
+.page__title {
+  font-family: $header-font-family;
+  color: $primary-color;
+
+  a {
+    color: $primary-color;
+  }
+}
+
+.page__content {
+  font-size: 0.9em;
+
+  img {
+    border-radius: $border-radius;
+  }
+}
+
+/* lead image: the post's own first embedded image, styled as a
+   banner that spans the text column (title/meta render above it,
+   since it's just the first paragraph of page__content) */
+.page__content > p:first-of-type img {
+  display: block;
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
   border-radius: $border-radius;
 }
 
-.page__title {
-  font-family: $header-font-family;
+.page__content > p:first-of-type {
+  margin-bottom: 1.75em;
 }
 
 /* topic chips (categories) */
@@ -145,4 +180,11 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
 
 .btn {
   border-radius: 999px;
+}
+
+/* no underlines on links, anywhere */
+a,
+a:hover,
+.page__content a:not(.btn):hover {
+  text-decoration: none;
 }

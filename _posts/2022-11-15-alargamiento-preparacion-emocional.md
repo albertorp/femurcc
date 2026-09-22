@@ -22,7 +22,6 @@ labels:
 excerpt: "Los padres que estamos ahora entre los 35-50 a\u00f1os, venimos de una generaci\u00f3n de tipos duros y madres coraje a los que no se les permit\u00eda flaquear emocionalmente. Tampoco pedir ayuda profesional, para\u2026"
 categories: ["Despu\u00e9s de operar"]
 header:
-  image: "/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg"
   teaser: "/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg"
 ---
 [![](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)](/femurcc/images/2022-11-15-alargamiento-preparacion-emocional--001.jpg)

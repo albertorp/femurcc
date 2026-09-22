@@ -9,7 +9,6 @@ labels:
 excerpt: "Hace algunas semanas que quer\u00edamos escribir sobre la t\u00e9cnica que hoy vamos a tratar de explicar, la liberaci\u00f3n de periostio, pero posiblemente por tratarse de una t\u00e9cnica a\u00fan experimental y hoy por\u2026"
 categories: ["T\u00e9cnicas aplicadas al FCC"]
 header:
-  image: "/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg"
   teaser: "/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg"
 ---
 [![](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)](/femurcc/images/2019-02-21-liberacion-periostica-luces-y-sombras--001.jpg)

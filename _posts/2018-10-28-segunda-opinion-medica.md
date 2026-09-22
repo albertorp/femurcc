@@ -9,7 +9,6 @@ labels:
 excerpt: "Aunque ya lo hablamos en una de las primeras entradas, quer\u00edamos insistir en ello, por lo importante y recomendable que nos parece."
 categories: ["Primeros pasos: Buscando informaci\u00f3n"]
 header:
-  image: "/images/2018-10-28-segunda-opinion-medica--001.jpg"
   teaser: "/images/2018-10-28-segunda-opinion-medica--001.jpg"
 ---
 [![](/femurcc/images/2018-10-28-segunda-opinion-medica--001.jpg)](/femurcc/images/2018-10-28-segunda-opinion-medica--001.jpg)

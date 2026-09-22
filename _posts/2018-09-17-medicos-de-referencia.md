@@ -9,7 +9,6 @@ labels:
 excerpt: "Con la vocaci\u00f3n que nace este blog y la ilusi\u00f3n por hacer el camino algo m\u00e1s f\u00e1cil, una de las primeras entradas quer\u00edamos que fuera, listado de m\u00e9dicos de referencia. Algunos son los propios que\u2026"
 categories: ["Primeros pasos: Buscando informaci\u00f3n"]
 header:
-  image: "/images/2018-09-17-medicos-de-referencia--001.jpg"
   teaser: "/images/2018-09-17-medicos-de-referencia--001.jpg"
 ---
 [![](/femurcc/images/2018-09-17-medicos-de-referencia--001.jpg)](/femurcc/images/2018-09-17-medicos-de-referencia--001.jpg)

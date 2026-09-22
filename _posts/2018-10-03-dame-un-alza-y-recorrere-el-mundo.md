@@ -9,7 +9,6 @@ labels:
 excerpt: "El Alza: ese mundo por descubrir\u2026, que, por sencillo, el sistema m\u00e9dico obvia, y que sin duda es lo m\u00e1s cotidiano del proceso de nuestros hijos. Probablemente una de las primeras preguntas que quedan\u2026"
 categories: ["Herramientas para la calidad de vida"]
 header:
-  image: "/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg"
   teaser: "/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg"
 ---
 [![](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg)](/femurcc/images/2018-10-03-dame-un-alza-y-recorrere-el-mundo--001.jpg)

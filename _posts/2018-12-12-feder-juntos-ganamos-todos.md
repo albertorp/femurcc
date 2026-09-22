@@ -9,7 +9,6 @@ labels:
 excerpt: "Hoy queremos hablar de FEDER, Federaci\u00f3n Espa\u00f1ola de Enfermedades Raras. Hace 4 a\u00f1os cuando diagnosticaron a Sergio y despu\u00e9s de pasar unos d\u00edas de aturdimiento y desaz\u00f3n, se me vino a la cabeza esa\u2026"
 categories: ["Asociaciones y ayudas"]
 header:
-  image: "/images/2018-12-12-feder-juntos-ganamos-todos--001.jpg"
   teaser: "/images/2018-12-12-feder-juntos-ganamos-todos--001.jpg"
 ---
 ![](/femurcc/images/2018-12-12-feder-juntos-ganamos-todos--001.jpg)

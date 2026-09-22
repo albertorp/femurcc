@@ -14,7 +14,6 @@ labels:
 excerpt: "La foto de la entrada de hoy era dif\u00edcil de elegir\u2026al final he elegido un nudo de pescador. Se llama nudo de sangre. Y es como me imagino el callo que deben ir haciendo c\u00e9lulas, fibras, \u00e1tomos\u2026 de la\u2026"
 categories: ["Despu\u00e9s de operar"]
 header:
-  image: "/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg"
   teaser: "/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg"
 ---
 [![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)

@@ -9,7 +9,6 @@ labels:
 excerpt: "Para acabar este a\u00f1o 2018, s\u00f3lo podemos alegrarnos de que todos nuestros peques est\u00e1n fuera del hospital, recuper\u00e1ndose genial de sus \u00faltimas intervenciones y cogiendo muchas fuerzas para lo que\u2026"
 categories: ["Empat\u00eda e integraci\u00f3n"]
 header:
-  image: "/images/2018-12-23-feliz-diversa-navidad--001.jpg"
   teaser: "/images/2018-12-23-feliz-diversa-navidad--001.jpg"
 ---
 [![](/femurcc/images/2018-12-23-feliz-diversa-navidad--001.jpg)](/femurcc/images/2018-12-23-feliz-diversa-navidad--001.jpg)

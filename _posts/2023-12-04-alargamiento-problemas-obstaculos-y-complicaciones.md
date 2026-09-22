@@ -16,7 +16,6 @@ labels:
 excerpt: "Para todos aquellos que tomareis la decisi\u00f3n de pasar por el alargamiento o aquellos que ya la hab\u00e9is tomado y pasareis en los pr\u00f3ximos meses, esta entrada no trata de desalentar. Todo lo contrario\u2026"
 categories: ["Antes de operar"]
 header:
-  image: "/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg"
   teaser: "/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg"
 ---
 [![](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)](/femurcc/images/2023-12-04-alargamiento-problemas-obstaculos-y-complicaciones--001.jpg)

@@ -9,7 +9,6 @@ labels:
 excerpt: "Como os contamos en la entrada anterior, el padre de una de nuestras chicas afectadas por FCC y dos atletas y valientes que le han acompa\u00f1ado, quer\u00edan este a\u00f1o completar una de las prueba de\u2026"
 categories: ["Agradecimientos e iniciativas"]
 header:
-  image: "/images/2021-09-29-hazana-lograda-campeones--001.jpg"
   teaser: "/images/2021-09-29-hazana-lograda-campeones--001.jpg"
 ---
 [![](/femurcc/images/2021-09-29-hazana-lograda-campeones--001.jpg)](/femurcc/images/2021-09-29-hazana-lograda-campeones--001.jpg)

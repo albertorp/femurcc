@@ -9,7 +9,6 @@ labels:
 excerpt: "FELIZ A\u00d1O 2019! No pod\u00edamos empezar mejor este nuevo a\u00f1o, que escuchando hablar de F\u00e9mur Corto Cong\u00e9nito en un medio tan importante como la Cadena Ser, concretamente en Ser Pamplona."
 categories: ["Asociaciones y ayudas"]
 header:
-  image: "/images/2019-01-04-gerna-y-fcc--001.jpg"
   teaser: "/images/2019-01-04-gerna-y-fcc--001.jpg"
 ---
 [![](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)](/femurcc/images/2019-01-04-gerna-y-fcc--001.jpg)
