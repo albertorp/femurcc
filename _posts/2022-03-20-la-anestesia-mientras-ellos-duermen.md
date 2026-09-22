@@ -15,7 +15,7 @@ categories: ["Antes de operar"]
 header:
   teaser: "/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg"
 ---
-[![](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg)](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg)
+[![](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg)](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--001.jpg)
 
 Hoy queremos tratar un lugar común en todas las intervenciones de nuestros hijos. Un procedimiento necesario en todos los quirófanos de esta subida a la Montaña y que sin embargo casi nunca se explica desde el lado padres.
 
@@ -45,7 +45,7 @@ También, en ocasiones hay padres con mas ansiedad y preocupación que el propio
 
 En cualquier caso los padres deben saber que los anestesistas somos profesionales altamente cualificados y que estamos en quirófano para asegurar que el niño esté bien, seguro, sin dolor ni sufrimiento. Estamos allí para cuidar de él y así ayudaremos al cirujano para que no haya incidencias y el resultado sea óptimo. Por su puesto, en cualquier momento del procedimiento anestésico quirúrgico, estamos a disposición de los padres, para cualquier cosa que puedan precisar.
 
-[![](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--002.jpg)](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--002.jpg)
+[![](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--002.jpg)](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--002.jpg)
 
 Pregunta: Respecto a las técnicas de anestesia en niños, necesariamente tiene que ser combinación de varias. ¿Podríamos saber un poco más sobre la secuencia que se sigue? ¿Y los motivos o razones de usar una técnica u otra?. 
 
@@ -55,7 +55,7 @@ La inducción se hace con una mascarilla, conectada al respirador, a la que lleg
 
 Es verdad que la anestesia inhalatoria con gas, provoca cierto grado de agitación motora (movimientos descontrolados pero dentro de unos límites) hasta que el niño esta completamente dormidos, por un mecanismo de desconexión de la conciencia. Por este motivo al despertar el niño sufre el proceso inverso. Pasa de la inconsciencia a la consciencia, pasando por la fase de agitación motora. Se mueve mucho, estará inquieto, raro y esto es lo que alarma a algunos padres. Sobre todo las primeras veces que su hijo es sometido a una anestesia. La mejor solución es hablar in situ con el anestesista.
 
-[![](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--003.jpg)](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--003.jpg)
+[![](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--003.jpg)](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--003.jpg)
 
 Una vez dormidos con el gas anestésico, se canaliza una vía venosa. Esta es la secuencia habitual en niños. Si ya se trata de un paciente más mayor o muy colaborador, entonces se les coge la vía antes y se les duerme con sustancias intravenosas (como los adultos, obviamente ajustando las dosis a su peso). Esto tiene algunas ventajas como que con sustancias intravenosas no se ve la fase de agitación que comente mas arriba con los gases y por tanto la calidad del proceso anestésico es percibida mejor por los padres.
 
@@ -71,7 +71,7 @@ Pregunta: Nos gustaría saber un poco más sobre la modalidad de anestesia que s
 
 **Respuesta:** La anestesia local y regional es una técnica muy útil para controlar el dolor y evitar que la fisiología del niño responda de forma brusca al mismo. Cuando solo se utiliza anestesia general, el dolor de las incisiones quirúrgicas o de las maniobras que realizan los cirujanos (por ejemplo en traumatología, en el momento de cortar huesos, etc.) solo se puede controlar con derivados del ópio u opiáceos. Esto es porque los calmantes o analgésicos convencionales no pueden controlar la respuesta del cuerpo al dolor. Respuesta como taquicardia, hipertensión arterial, aumento de la respiración, sudoración, activación del sistema nervioso, etc., efectos todos que pueden tener consecuencias negativas para el paciente.
 
-[![](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--004.jpg)](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--004.jpg)
+[![](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--004.jpg)](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--004.jpg)
 
 Es por esto que se deben utilizar fármacos analgésicos potentes para controlar ese dolor. Ese tipo de fármacos son los opiáceos. Éstos, tienen una serie de efectos secundarios cuando se produce el despertar del paciente, tales como somnolencia, retraso en el despertar de la anestesia, nauseas y vómitos intensos, que se respire menos o depresión respiratoria, picor intenso, estreñimiento, retención de orina, etc. Esto provoca que la fase de postoperatorio sea o pueda ser más desagradable para el niño y los padres. Incluso, los efectos secundarios, pueden hacer que una cirugía sin ingreso se transforme en un ingreso forzoso.
 
@@ -97,7 +97,7 @@ Pregunta: ¿Cómo se programa el despertar? ¿Cómo es?
 
 **Respuesta:** Una vez que termina el acto quirúrgico, se procede a despertar al niño, cortando los gases anestésicos. El niño se va a despertar en un tiempo entre 2 a 5 minutos. En ese estado de seminconsciencia se le pasa a la reanimación y se intenta que estén los padres o al menos la madre o el padre para que el proceso de despertar completo sea con ellos y el niño no perciba mas agresión. El proceso de despertar, cuando la inducción ha sido con gases, el estado neurológico es de cierta agitación motora con movimientos, quejas y en muchas ocasiones el miedo y el llanto iniciales al dormirse, es decir los niños “despiertan como se duermen”.
 
-[![](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--005.jpg)](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--005.jpg)
+[![](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--005.jpg)](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--005.jpg)
 
 En resumen, conocer cada proceso nos puede dar tranquilidad y confianza. Aunque sea rutinario para los médicos, para nosotros y nuestros hijos supondrá todo un Mundo y nuestra reacción hará que ellos estén más o menos tranquilos.
 
@@ -105,7 +105,7 @@ Pero sin duda, nos quedamos con las palabras de Roberto: Los anestesiólogos son
 
 Recordad, en niños, no hay sólo una anestesia, hay combinación de varias según la edad, nivel de colaboración y complejidad de la intervención. Pregunta cuál será la de tu hijo. No te quedes con dudas, y si puedes explícale de forma sencilla como será. Mediante juegos o dibujos. Y si habrá opiáceos, prepárate para un rato de agitación y despertar duro en reanimación. Pasará y volverá la calma o mejor dicho la no calma! en pocos días serán de nuevo superhéroes dispuestos a comerse el Mundo.
 
-[![](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--006.jpg)](/femurcc/images/2022-03-20-la-anestesia-mientras-ellos-duermen--006.jpg)
+[![](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--006.jpg)](/images/2022-03-20-la-anestesia-mientras-ellos-duermen--006.jpg)
 
 Mucho ánimo!! Hoy la ciencia nos da posibilidades que no existían hacen 20 años. Dentro de otros 20 se operará en el metaverso mientras nuestros hijos escuchan música plácidamente. Todo llegará.
 

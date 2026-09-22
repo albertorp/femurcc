@@ -14,7 +14,7 @@ categories: ["Agradecimientos e iniciativas"]
 header:
   teaser: "/images/2021-07-05-reto-por-el-fcc--001.jpg"
 ---
-[![](/femurcc/images/2021-07-05-reto-por-el-fcc--001.jpg)](/femurcc/images/2021-07-05-reto-por-el-fcc--001.jpg)
+[![](/images/2021-07-05-reto-por-el-fcc--001.jpg)](/images/2021-07-05-reto-por-el-fcc--001.jpg)
 
 Si hay un símil con el que nos vemos identificados en el FCC es la Montaña! es nuestra seña de identidad, el reto que visualizamos a cada paso y etapa que completamos. 
 
@@ -44,7 +44,7 @@ Esta semana lo contaron en la Cadena Ser Alicante. Os dejamos el Link:
 
 Llegar y cruzar la meta será la victoria!! estamos seguros que aupados por todas familias que componen y leen este blog sacarán energía, orientación, fuerza y amor propio para cruzar esa META!.
 
-[![](/femurcc/images/2021-07-05-reto-por-el-fcc--002.png)](/femurcc/images/2021-07-05-reto-por-el-fcc--002.png)
+[![](/images/2021-07-05-reto-por-el-fcc--002.png)](/images/2021-07-05-reto-por-el-fcc--002.png)
 
 Es un trazado sin marcar, en el que la orientación, tesón y trabajo en equipo es crucial. Nos encanta este RETO por eso!! No hay vencedores, hay resilientes!! hay que llegar! esa es la Victoria. Representa fielmente nuestro espíritu!.
 

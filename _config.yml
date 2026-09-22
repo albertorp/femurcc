@@ -4,8 +4,8 @@ lang: es
 locale: "es-ES"
 date_format: "%d/%m/%Y"
 
-url: "https://albertorp.github.io"
-baseurl: "/femurcc"
+url: "https://femur.cc"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: default

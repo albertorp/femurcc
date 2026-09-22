@@ -17,7 +17,7 @@ categories: ["T\u00e9cnicas aplicadas al FCC"]
 header:
   teaser: "/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg"
 ---
-[![](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)
+[![](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--001.jpg)
 
 Llevamos tiempo preparando la entrada de hoy, y lo cierto es que ha costado terminarla. A petición de varias familias queríamos abordar la técnica de la EPIFISIODESIS o HEMIEPIFISIODESIS, que ya las palabras son complejas en sí mismas.
 
@@ -29,7 +29,7 @@ Las dudas más recurrentes que surgen desde el lado padres, y que hoy queremos t
 
 La entrada de hoy explica estas técnicas, diferentes y no siempre complementarias: La EPIFISIODESIS o frenado de pierna buena, y la HEMIEPIFISIODESIS o corrección angular del varo o valgo de rodilla.
 
-[![](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--002.jpg)](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--002.jpg)
+[![](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--002.jpg)](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--002.jpg)
 
 El _QUÉ, CÓMO, CUÁNDO Y POR QUÉ_ puede o debe hacerse cada una se resume a continuación. 
 
@@ -55,7 +55,7 @@ Los médicos pueden condicionar el crecimiento a nivel de la fisis de dos formas
 
 
 
-[![](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--003.jpg)](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--003.jpg)
+[![](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--003.jpg)](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--003.jpg)
 
 Las técnicas vistas hoy, tanto la definitiva como la temporal, son sólo aplicables mientras el niñ@ está en fase de crecimiento con al menos un crecimiento remanente mínimo entre 6 y 12 meses (en términos generales, la fisis del femur a nivel de la rodilla crece 9mm/año; mientras que la fisis de la tibia a nivel de la rodilla crece 6mm/año). Igualmente, en términos generales, una niña deja de crecer a los 14 años (o dos años después de la primera regla) y un niño deja de crecer a los 16 años.
 
@@ -77,7 +77,7 @@ Bien, con esta primera base, comenzamos. En primer lugar, debemos distinguir las
 
 
 
-[![](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--004.jpg)](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--004.jpg)
+[![](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--004.jpg)](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--004.jpg)
 
   * ¿ Qué hueso se interviene? El que la placa se ponga en fémur y tibia o sólo en fémur depende de cada caso. Los médicos miden unos ángulos en la tele-radiografia de las piernas para saber donde esta la deformidad. En el caso de FCC y hemimelia peronea, el genu valgo suele ser por culpa de una hipoplasia del cóndilo femoral externo. Por ese motivo, la corrección suele ser en la zona de crecimiento del femur distal medial.
 
@@ -117,7 +117,7 @@ En resumen, es una cirugía poco invasiva y sencilla para corregir deformaciones
 
 
 
-[![](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--005.jpg)](/femurcc/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--005.jpg)
+[![](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--005.jpg)](/images/2021-11-12-epifisiodesis-o-frenado-de-pierna-larga-vs-hemiepifisiodesis-o-correccion-angular--005.jpg)
 
   
 

@@ -14,13 +14,13 @@ categories: ["Agradecimientos e iniciativas"]
 header:
   teaser: "/images/2021-06-29-premiando-la-superacion--001.jpg"
 ---
-[![](/femurcc/images/2021-06-29-premiando-la-superacion--001.jpg)](/femurcc/images/2021-06-29-premiando-la-superacion--001.jpg)
+[![](/images/2021-06-29-premiando-la-superacion--001.jpg)](/images/2021-06-29-premiando-la-superacion--001.jpg)
 
 Nos hace especial ilusión compartir con vosotros el premio recibido ayer por Naiara Biurrun, una de nuestras luchadoras incansables. Crecen tanto y nos hacen tan mayores que ya no podemos hablar de nuestros niños...
 
 Naiara es una veterana de 14 años con una familia preciosa y unos padres igual de luchadores y valientes que tomaron la decisión de no entrar en la rueda de los quirófanos. Naiara ha tenido una infancia libre de hospitales y no sólo plena y feliz, sino que practica deporte al más alto nivel.
 
-[![](/femurcc/images/2021-06-29-premiando-la-superacion--002.png)](/femurcc/images/2021-06-29-premiando-la-superacion--002.png)
+[![](/images/2021-06-29-premiando-la-superacion--002.png)](/images/2021-06-29-premiando-la-superacion--002.png)
 
   
 Hace algunos meses la dedicamos una entrada en el blog que podéis leer [aquí](http://femurcc.blogspot.com/2020/07/vivir-con-protesis.html)[.](http://femurcc.blogspot.com/2020/07/vivir-con-protesis.html)

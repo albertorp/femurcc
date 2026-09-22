@@ -16,7 +16,7 @@ categories: ["Despu\u00e9s de operar"]
 header:
   teaser: "/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg"
 ---
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--001.jpg)
 
 La foto de la entrada de hoy era difícil de elegir…al final he elegido un nudo de pescador. Se llama nudo de sangre. Y es como me imagino el callo que deben ir haciendo células, fibras, átomos… de la nada para que nuestros hijos creen hueso donde no lo había. ¡VIDA! pura ¡¡¡Vida!!!.
 
@@ -43,14 +43,14 @@ Pero no sólo hay que cuidar la parte psicológica, también la logística es im
 
 
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--002.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--002.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--002.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--002.jpg)
 
   
 
 
 **1ª INTERVENCIÓN** : Se fractura el fémur, colocación del clavo intramedular sin fijación y fijador externo.
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--003.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--003.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--003.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--003.jpg)
 
 La operación puede durar en torno a 3 h, aunque siempre depende de las complicaciones que pueda haber a la hora de colocar el clavo y fijador.
 
@@ -64,7 +64,7 @@ Dos noches de hospital con calmantes y control del dolor vía intravenosa y a ca
 
 
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--004.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--004.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--004.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--004.jpg)
 
 Una vez en casa todo mejora y es más fácil.
 
@@ -72,7 +72,7 @@ Una vez en casa todo mejora y es más fácil.
 
 
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--005.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--005.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--005.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--005.jpg)
 
   
   
@@ -89,7 +89,7 @@ Hay que respirar y coger aire. Ellos, menos la primera vez, ya saben lo que vien
 
 Os darán pautas en el hospital de cómo curar, pero una vez te ves sol@ ante el peligro, no sabes por dónde empezar. El material que se usó en este caso fue clorhexidina (no entra en la Seg. Social), gasas (que sean lo más suaves posibles) y apósitos (gasas y apósitos que los recete la pediatra). Se debe enrollar la gasa empapada en clorhexidina alrededor de los pines y frotar para que quede limpio (usar una gasa para cada pin). Después tapar con los apósitos. Para el cambio de apósitos, mojarlos mucho con suero antes de despegarlos para que le duela menos. Es recomendable echar clorhexidina a presión dentro de la herida con jeringuilla de punta de plástico y luego frotar alrededor del pin. Os dejamos fotos del antes y del después y un video explicativo [aqui](https://drive.google.com/file/d/1Pr4zvgy9LgJBEgvMlt7y0aF_UN6aER_8/view?usp=sharing).
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--006.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--006.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--006.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--006.jpg)
 
   
 
@@ -100,7 +100,7 @@ Es importante que después de cada cura os toméis un tiempo de respiro los dos�
 
 
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--007.jpeg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--007.jpeg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--007.jpeg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--007.jpeg)
 
   * _Momento de alargar:_ En este caso se alargaba 0,75mm al día, es decir 1 giro de tuerca cada 8h. ¡Ojo! se recomienda apuntar en el calendario cada vez que se da un giro ya que es fácil dudar si se ha hecho. Se puede hacer coincidir con desayuno, comida y cena. Importante notar que el giro es suave ya que el médico insiste mucho en que en el momento que notáramos que iba más duro, acudiéramos al hospital ya que podría ser por ofrecer resistencia el hueso.
 
@@ -112,7 +112,7 @@ Es importante que después de cada cura os toméis un tiempo de respiro los dos�
 
 
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--008.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--008.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--008.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--008.jpg)
 
   
 
@@ -147,7 +147,7 @@ Tras retirarle el fijador tuvo que “volver a aprender a caminar”. Al princip
 
 Hay que potenciar musculatura: cuádriceps, glúteo medio…y estiramientos de isquiotibiales, gemelos,…
 
-[![](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--009.jpg)](/femurcc/images/2021-03-08-el-alargamiento-desde-el-lado-padres--009.jpg)
+[![](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--009.jpg)](/images/2021-03-08-el-alargamiento-desde-el-lado-padres--009.jpg)
 
 Hay revisión al mes de esta segunda operación con rayos (telemetría). Resultado: callo osificando perfectamente y rápido, alargado aprox. 4,7cm. Sin embargo, se le queda una dismetría de 3cm debido a la disminución del ángulo cervicodiafisario al fijar el clavo intramedular.
 

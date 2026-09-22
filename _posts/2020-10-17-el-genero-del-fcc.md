@@ -14,7 +14,7 @@ categories: ["Empat\u00eda e integraci\u00f3n"]
 header:
   teaser: "/images/2020-10-17-el-genero-del-fcc--001.jpg"
 ---
-[![](/femurcc/images/2020-10-17-el-genero-del-fcc--001.jpg)](/femurcc/images/2020-10-17-el-genero-del-fcc--001.jpg)
+[![](/images/2020-10-17-el-genero-del-fcc--001.jpg)](/images/2020-10-17-el-genero-del-fcc--001.jpg)
 
 Cuando empezamos este camino juntos hace ya algunos años, todas las familias que conocíamos habíamos tenido niños.
 
@@ -42,7 +42,7 @@ Habrá que mirar más y seleccionar mejor para que el alza quede bien, pero al f
 
 Para que veáis que se puede!! Os dejamos una colección de fotos de nuestra pionera en el grupo!! Nuestra chica mayor. ¡¡¡No se puede tener más arte y ser más coqueta!!.
 
-[![](/femurcc/images/2020-10-17-el-genero-del-fcc--002.jpg)](/femurcc/images/2020-10-17-el-genero-del-fcc--002.jpg)
+[![](/images/2020-10-17-el-genero-del-fcc--002.jpg)](/images/2020-10-17-el-genero-del-fcc--002.jpg)
 
   
 

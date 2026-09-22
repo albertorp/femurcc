@@ -14,7 +14,7 @@ categories: ["T\u00e9cnicas aplicadas al FCC"]
 header:
   teaser: "/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg"
 ---
-[![](/femurcc/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)](/femurcc/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)
+[![](/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)](/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)
 
   
   

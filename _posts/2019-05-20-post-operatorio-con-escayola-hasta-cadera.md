@@ -11,7 +11,7 @@ categories: ["Despu\u00e9s de operar"]
 header:
   teaser: "/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg"
 ---
-[![](/femurcc/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)](/femurcc/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)
+[![](/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)](/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)
 
 Hace tiempo que teníamos pendiente una entrada sobre las escayolas hasta la cadera (Yeso pelvipédico). Se trata de un post-operatorio común en las cirugías de dismetrías de miembros inferiores, cuando la cadera o cabeza del fémur están afectados.
 

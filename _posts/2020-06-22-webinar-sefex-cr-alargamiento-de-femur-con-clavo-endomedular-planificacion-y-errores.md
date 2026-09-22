@@ -15,7 +15,7 @@ categories: ["T\u00e9cnicas aplicadas al FCC"]
 header:
   teaser: "/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg"
 ---
-[![](/femurcc/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)](/femurcc/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)
+[![](/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)](/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)
 
   
 

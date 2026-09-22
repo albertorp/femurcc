@@ -11,7 +11,7 @@ categories: ["Antes de operar"]
 header:
   teaser: "/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg"
 ---
-[![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)
+[![](/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)](/images/2018-11-24-jugando-a-medicos-y-hospitales--001.jpg)
 
 Hoy queremos hablar de lo importante que es la preparación psicológica cuando los niños deben enfrentarse a una hospitalización, un quirófano y un postoperatorio.  
 Es probablemente una de las mayores angustias que toca pasar como padres, y a pesar de vivirla repetidamente en la mayoría de los casos, nunca acabas de acostumbrarte.  
@@ -23,7 +23,7 @@ Hay varios puntos importantes que se pueden trabajar con ellos y que ayudarán a
 
 En primer lugar, es importante luchar hasta la extenuación como padres para que en el hospital dejen que el niño esté acompañado por su padre o madre hasta que le duerman. Nadie va a pretender estar presente en la operación, pero los 5 ó 10 minutos que pasan desde que el niño se separa de su padre o madre hasta que le sedan puede ser realmente aterrador para ellos. Pensemos que ellos no entienden nada, no están enfermos, no les duele nada, y sólo ven que se lo llevan un grupo de extraños, con máscaras… entran en un lugar frio, lleno de focos y señores de verde que no conocen de nada. Serán sólo 5 ó 10 minutos, merece la pena intentarlo. 
 
-[![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--002.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--002.jpg)
+[![](/images/2018-11-24-jugando-a-medicos-y-hospitales--002.jpg)](/images/2018-11-24-jugando-a-medicos-y-hospitales--002.jpg)
 
 Afortunadamente ya hay hospitales concienciados en la inteligencia emocional, en la importancia del estado en el que se duerme el paciente, de mayor o menor estrés, y dejan que un progenitor acompañe al niño, pero sigue habiendo muchos que no lo permiten; lamentablemente, la mayoría.
 
@@ -39,7 +39,7 @@ El segundo pilar en el proceso es el aprendizaje a través del juego. Los niños
 
 Nuestra experiencia es que el apoyo en la guardería o el colegio es muy importante. Hay que hacer cómplices a los profesores y pedirles que, a una semana vista de la operación, trabajen toda la temática de los médicos. Que los doctores y enfermeras son buenos y nos quieren ayudar. Que los hospitales son sitios agradables donde nos cuidan y curan y donde los abuelos y amigos van a visitarnos cuando estamos ingresados. 
 
-[![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--003.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--003.jpg)
+[![](/images/2018-11-24-jugando-a-medicos-y-hospitales--003.jpg)](/images/2018-11-24-jugando-a-medicos-y-hospitales--003.jpg)
 
 También son de gran ayuda los cuentos. Uno que nos encanta para niños muy pequeños es NACHO EN EL HOSPITAL. Es muy sencillo y por eso es muy bueno. Se lo aprenderán de memoria, y será un mensaje sencillo para transmitir cuando estén asustados...
 
@@ -59,21 +59,21 @@ En mi caso, llevamos la caja el último año de guardería que fue la primera op
   
 
 
-[![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--004.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--004.jpg)En las dos ocasiones fue muy, muy fructífero. Ayudó mucho a interiorizar lo que estaba por venir.
+[![](/images/2018-11-24-jugando-a-medicos-y-hospitales--004.jpg)](/images/2018-11-24-jugando-a-medicos-y-hospitales--004.jpg)En las dos ocasiones fue muy, muy fructífero. Ayudó mucho a interiorizar lo que estaba por venir.
 
 Vendábamos la pierna a sus muñecos preferidos...; entre nosotros, nos pusimos mascarillas imitando que nos dormían, etc. Ellos se lo pasan genial, y jugando con papá y mamá mejor todavía.
 
   
 
 
-[![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--005.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--005.jpg)  
+[![](/images/2018-11-24-jugando-a-medicos-y-hospitales--005.jpg)](/images/2018-11-24-jugando-a-medicos-y-hospitales--005.jpg)  
 
 
 Para el gran día, recomendamos (cada vez que llegue), llevar entretenimiento para el rato desde que se entra en admisión hasta que se lo llevan a quirófano. Puede ser un rato largo y hay que pasarlo jugando y en positivo. Recordad que el niño no puede sentir angustia, tristeza o miedo en quien esté en ese momento con él, porque se lo trasmitirá. 
 
 Vale la tablet o el móvil con dibujos animados pero de todo se cansan, así que conviene llevar papel y pinturas o rotuladores, y alguno de sus juguetes favoritos. 
 
-[![](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--006.jpg)](/femurcc/images/2018-11-24-jugando-a-medicos-y-hospitales--006.jpg)
+[![](/images/2018-11-24-jugando-a-medicos-y-hospitales--006.jpg)](/images/2018-11-24-jugando-a-medicos-y-hospitales--006.jpg)
 
 Hay hospitales que tienen triciclos en la zona de admisión para que estén entretenidos, y con los que luego les llevan a quirófano a modo de distracción, pero si no se está seguro es mejor llevar opciones.
 

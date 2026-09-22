@@ -11,7 +11,7 @@ categories: ["Asociaciones y ayudas"]
 header:
   teaser: "/images/2018-12-12-feder-juntos-ganamos-todos--001.jpg"
 ---
-![](/femurcc/images/2018-12-12-feder-juntos-ganamos-todos--001.jpg)
+![](/images/2018-12-12-feder-juntos-ganamos-todos--001.jpg)
 
   
 
@@ -41,14 +41,14 @@ De aquello han pasado 4 años y el resto ya es historia como dicen en las pelíc
   
 
 
-Así que, con esta entrada nos gustaría animaros a dos cosas. Primero, a que entréis en FEDER (<https://enfermedades-raras.org//femurcc/images/doc/feder_cartera_servicios.pdf>) y os informéis de todo lo que puede hacer por vosotros, y segundo, que vayamos engrosando la base de datos de Femúr Corto Congénito para que vayamos formando _masa_ y nos ayude a seguir creciendo.
+Así que, con esta entrada nos gustaría animaros a dos cosas. Primero, a que entréis en FEDER (<https://enfermedades-raras.org//images/doc/feder_cartera_servicios.pdf>) y os informéis de todo lo que puede hacer por vosotros, y segundo, que vayamos engrosando la base de datos de Femúr Corto Congénito para que vayamos formando _masa_ y nos ayude a seguir creciendo.
 
 Como enfermedad rara se presupone un número reducido de casos pero habida cuenta de la mala comunicación entre comunidades autónomas, tengo mis dudas de que ni si quiera exista un censo nacional de casos. ¿Cuantos diagnósticos de FCC hay en España, cuántos niños y cuántas niñas? ¿Dónde se tratan más número de casos? y otras cuestiones que seguro que FEDER podría ir recopilando en su base de datos.
 
   
 
 
-[![](/femurcc/images/2018-12-12-feder-juntos-ganamos-todos--002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-JbpRc5GtkcUrvezky8Daogpm2LRb_vbdPnkhQEGajrFOBG6PiB7dhePHiAL-vU4CVAbqIbu5JOqT1DBxjfrId7JVYUVEYJTEeENFiTSbx_XPEmpNl0Z2H8rDXsttkNl1IH8Qn9dOjnQ2/s1600/elastigirl.jpg)
+[![](/images/2018-12-12-feder-juntos-ganamos-todos--002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-JbpRc5GtkcUrvezky8Daogpm2LRb_vbdPnkhQEGajrFOBG6PiB7dhePHiAL-vU4CVAbqIbu5JOqT1DBxjfrId7JVYUVEYJTEeENFiTSbx_XPEmpNl0Z2H8rDXsttkNl1IH8Qn9dOjnQ2/s1600/elastigirl.jpg)
 
 Gracias a Pili (nuestra elastigirl particular, y sin la que ,sin duda, el camino seria mucho menos luminoso), os dejamos el contacto de la persona de FEDER a la que se pueden mandar los datos, así como el modelo de consentimiento que habría que incluir en el email. 
 
