@@ -79,7 +79,7 @@ content:
   - name: home
     label: Página de inicio
     type: file
-    path: index.md
+    path: index.html
     format: yaml-frontmatter
     fields:
       - name: title
@@ -90,8 +90,9 @@ content:
         type: string
         hidden: true
       - name: body
-        label: Contenido
-        type: rich-text
+        label: Contenido (HTML)
+        type: text
+        description: "Esta página usa HTML en lugar de Markdown (necesario para la paginación del blog)."
 
 settings:
   content:

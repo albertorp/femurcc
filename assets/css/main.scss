@@ -1,0 +1,148 @@
+---
+# Only the main Sass file needs front matter, the rest of the files just need to be imported
+---
+
+@charset "utf-8";
+
+/* ==========================================================================
+   FémurCC — variables (override the theme's !default values before its
+   own partials set them)
+   ========================================================================== */
+
+$doc-font-size: 15px;
+
+$fcc-sans: 'Nunito Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+$fcc-serif: 'Fraunces', Georgia, serif;
+
+$sans-serif: $fcc-sans;
+$global-font-family: $sans-serif;
+$header-font-family: $fcc-serif;
+$caption-font-family: $fcc-serif;
+
+$background-color: #ffffff;
+$text-color: #2e2a24;
+$muted-text-color: #6b6255;
+$border-color: #e9e2d6;
+$footer-background-color: #f6f3ee;
+$form-background-color: #f6f3ee;
+
+$primary-color: #e2653a;
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: $primary-color;
+
+$link-color: #3e7480;
+$link-color-hover: #2c555e;
+$link-color-visited: #6fa0a6;
+
+$border-radius: 12px;
+$box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06);
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* ==========================================================================
+   FémurCC — ajustes de marca
+   ========================================================================== */
+
+.masthead {
+  border-bottom-color: $border-color;
+
+  .site-title {
+    font-family: $header-font-family;
+    font-weight: 600;
+  }
+}
+
+.archive__item-teaser {
+  border-radius: $border-radius;
+  overflow: hidden;
+  margin-bottom: 0.75em;
+
+  img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+  }
+}
+
+.list__item .archive__item {
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 1.25em 1.25em 1.5em;
+  box-shadow: $box-shadow;
+  margin-bottom: 2em;
+  background: #fff;
+
+  .archive__item-teaser {
+    margin: -1.25em -1.25em 1em;
+
+    img {
+      border-radius: $border-radius $border-radius 0 0;
+    }
+  }
+}
+
+.archive__item-title {
+  font-family: $header-font-family;
+  margin-top: 0.4em;
+
+  a {
+    color: $text-color;
+  }
+}
+
+.archive__item-excerpt {
+  color: $muted-text-color;
+}
+
+.page__meta-readtime,
+.page__meta-date,
+.page__meta {
+  color: $muted-text-color;
+}
+
+.page__hero-image {
+  border-radius: $border-radius;
+}
+
+.page__title {
+  font-family: $header-font-family;
+}
+
+/* topic chips (categories) */
+.fcc-chip-row {
+  margin: 0.5em 0 0.75em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+
+.fcc-chip,
+.page__taxonomy-item {
+  display: inline-block;
+  padding: 0.25em 0.85em;
+  border-radius: 999px;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.fcc-chip-1 { background: #e4eedf; color: #3f5b3d; }
+.fcc-chip-2 { background: #fbe3d8; color: #9b3e1f; }
+.fcc-chip-3 { background: #dcebec; color: #1f5158; }
+.fcc-chip-4 { background: #f7e8c9; color: #7a5416; }
+.fcc-chip-5 { background: #ede7dc; color: #4a4030; }
+
+.btn--primary {
+  background-color: $primary-color;
+  border-radius: 999px;
+
+  &:hover {
+    background-color: mix(#000, $primary-color, 15%);
+  }
+}
+
+.btn {
+  border-radius: 999px;
+}

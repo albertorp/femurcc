@@ -12,6 +12,10 @@ labels:
   - "Fémur Corto Congénito"
   - "Hemimelia peronea"
 excerpt: "La entrada de hoy est\u00e1 dedicada a todas esas familias que llegar\u00e1n en las pr\u00f3ximas semanas o meses a la fase de alargamiento. En esta malformaci\u00f3n hay varios caminos para ir completando fases, pero\u2026"
+categories: ["Antes de operar"]
+header:
+  image: "/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg"
+  teaser: "/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg"
 ---
 [![](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)](/femurcc/images/2023-06-12-lista-de-tareas-y-consejos-pre-post-alargamiento--001.jpg)
 

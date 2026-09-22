@@ -7,6 +7,10 @@ original_url: "https://femurcc.blogspot.com/2019/05/post-operatorio-con-escayola
 labels:
   []
 excerpt: "Hace tiempo que ten\u00edamos pendiente una entrada sobre las escayolas hasta la cadera (Yeso pelvip\u00e9dico). Se trata de un post-operatorio com\u00fan en las cirug\u00edas de dismetr\u00edas de miembros inferiores\u2026"
+categories: ["Despu\u00e9s de operar"]
+header:
+  image: "/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg"
+  teaser: "/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg"
 ---
 [![](/femurcc/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)](/femurcc/images/2019-05-20-post-operatorio-con-escayola-hasta-cadera--001.jpg)
 

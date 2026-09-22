@@ -7,6 +7,10 @@ original_url: "https://femurcc.blogspot.com/2019/07/ayudas-y-subvenciones.html"
 labels:
   []
 excerpt: "La primera vez te dicen que tu hijo tendr\u00e1 necesidades especiales, y que tendr\u00e1 que pasar por quir\u00f3grafo varias veces en su infancia y adolescencia, a todos se nos pellizca el coraz\u00f3n. Es un\u2026"
+categories: ["Asociaciones y ayudas"]
+header:
+  image: "/images/2019-07-06-ayudas-y-subvenciones--001.jpg"
+  teaser: "/images/2019-07-06-ayudas-y-subvenciones--001.jpg"
 ---
 ![](/femurcc/images/2019-07-06-ayudas-y-subvenciones--001.jpg) La primera vez te dicen que tu hijo tendrá necesidades especiales, y que tendrá que pasar por quirógrafo varias veces en su infancia y adolescencia, a todos se nos pellizca el corazón. Es un sentimiento de fustración y tristeza de pensar en si seremos capaces de educarle con la fortaleza suficiente para afrontar el camino.
 

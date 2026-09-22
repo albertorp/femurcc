@@ -10,6 +10,10 @@ labels:
   - "Instituto Downey"
   - "precice"
 excerpt: "Feliz semana Santa a todos! En estos d\u00edas de confinamiento hemos recibido un precioso regalo de uno de los doctores m\u00e1s especializados en patolog\u00edas \u00f3seas pedi\u00e1tricas en Espa\u00f1a. Y en concreto en el\u2026"
+categories: ["T\u00e9cnicas aplicadas al FCC"]
+header:
+  image: "/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg"
+  teaser: "/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg"
 ---
 [![](/femurcc/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)](/femurcc/images/2020-04-10-sesion-divulgativa-en-facebook-del-dr-downey--001.jpg)
 

@@ -10,6 +10,10 @@ labels:
   - "Fémur Corto Congénito"
   - "Luis Moraleda Novo"
 excerpt: "Dr. Luis Moraleda Novo"
+categories: ["T\u00e9cnicas aplicadas al FCC"]
+header:
+  image: "/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg"
+  teaser: "/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg"
 ---
 [![](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg)](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--001.jpg)  
 [![](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--002.jpg)](/femurcc/images/2020-05-04-sesion-divulgativa-sobre-el-femur-corto-congenito--002.jpg)  

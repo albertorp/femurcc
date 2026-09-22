@@ -7,6 +7,10 @@ original_url: "https://femurcc.blogspot.com/2020/03/gracias-todos-nuestros-heroe
 labels:
   []
 excerpt: "Llevamos ya algunos d\u00edas en casa, algunos aburridos y otros desquiciados por no saber qu\u00e9 hacer con los peques, pero todos en casa, a salvo."
+categories: ["Agradecimientos e iniciativas"]
+header:
+  image: "/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg"
+  teaser: "/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg"
 ---
 [![](/femurcc/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)](/femurcc/images/2020-03-24-gracias-a-todos-nuestros-heroes--001.jpg)
 

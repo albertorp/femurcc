@@ -1,0 +1,11 @@
+# Maps each category to one of the 5 chip colors defined in assets/css/main.scss
+"Asimilando el viaje": 1
+"Empatía e integración": 1
+"Antes de operar": 2
+"Después de operar": 2
+"Primeros pasos: Buscando información": 3
+"Asociaciones y ayudas": 3
+"Herramientas para la calidad de vida": 3
+"Casos de referencia": 4
+"Agradecimientos e iniciativas": 4
+"Técnicas aplicadas al FCC": 5

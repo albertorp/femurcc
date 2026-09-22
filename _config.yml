@@ -1,6 +1,8 @@
 title: "Fémur Corto Congénito"
 description: "Información, experiencias y recursos sobre el Fémur Corto Congénito"
 lang: es
+locale: "es-ES"
+date_format: "%d/%m/%Y"
 
 url: "https://albertorp.github.io"
 baseurl: "/femurcc"
@@ -22,6 +24,13 @@ plugins:
 paginate: 10
 paginate_path: /page:num/
 
+category_archive:
+  type: liquid
+  path: /categorias/
+tag_archive:
+  type: liquid
+  path: /etiquetas/
+
 defaults:
   - scope:
       path: ""
@@ -30,6 +39,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
+      show_date: true
       comments: false
       share: false
       related: true

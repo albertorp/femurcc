@@ -11,6 +11,10 @@ labels:
   - "Doctor Ginebreda"
   - "SEFEX"
 excerpt: "Sin duda si algo positivo podemos sacar de este confinamiento es lo que se ha abierto la informaci\u00f3n y divulgaci\u00f3n de temas de inter\u00e9s al p\u00fablico en general."
+categories: ["T\u00e9cnicas aplicadas al FCC"]
+header:
+  image: "/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg"
+  teaser: "/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg"
 ---
 [![](/femurcc/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)](/femurcc/images/2020-06-22-webinar-sefex-cr-alargamiento-de-femur-con-clavo-endomedular-planificacion-y-errores--001.jpg)
 
