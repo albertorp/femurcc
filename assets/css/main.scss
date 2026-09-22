@@ -144,6 +144,16 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
   margin-bottom: 1.75em;
 }
 
+/* homepage intro image */
+.fcc-home-image {
+  display: block;
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+  border-radius: $border-radius;
+  margin-bottom: 1.5em;
+}
+
 /* topic chips (categories) */
 .fcc-chip-row {
   margin: 0.5em 0 0.75em;
