@@ -3,3 +3,7 @@ main:
     url: /sobre-nosotros/
   - title: "Listado de temas"
     url: /listado-de-temas/
+  - title: "Categorías"
+    url: /categorias/
+  - title: "Etiquetas"
+    url: /etiquetas/

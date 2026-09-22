@@ -24,7 +24,7 @@
       <p class="fcc-chip-row">
         {% for category in post.categories %}
           {% assign chip_index = site.data.categories[category] | default: 5 %}
-          <a href="{{ site.category_archive.path | default: '/categories/' | append: category | slugify | relative_url }}" class="fcc-chip fcc-chip-{{ chip_index }}" rel="tag">{{ category }}</a>
+          <a href="{{ site.category_archive.path | relative_url }}{{ category | slugify }}/" class="fcc-chip fcc-chip-{{ chip_index }}" rel="tag">{{ category }}</a>
         {% endfor %}
       </p>
     {% endif %}
