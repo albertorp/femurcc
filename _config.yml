@@ -44,3 +44,4 @@ defaults:
       comments: false
       share: false
       related: true
+      classes: fcc-post
