@@ -150,6 +150,13 @@ $box-shadow: 0 1px 2px rgba(46, 42, 24, 0.05), 0 6px 18px rgba(46, 42, 24, 0.06)
   }
 }
 
+/* justified intro text on the homepage (its content sits directly
+   inside .archive, not .page__content) */
+.layout--home .archive > p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 /* lead image: the post's own first embedded image, styled as a
    banner that spans the text column (title/meta render above it,
    since it's just the first paragraph of page__content) */
